@@ -1,0 +1,3868 @@
+{
+  "nodes": [
+    {
+      "id": "1e91bb74-2a22-4b6f-818d-ed573ed8ded7",
+      "title": "ABAP Clássico (ECC)",
+      "type": "pasta",
+      "content": "",
+      "description": "Desenvolvimento ABAP para sistemas ECC",
+      "tags": [
+        "ABAP",
+        "ECC"
+      ],
+      "parent_id": null,
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:32.617+00:00",
+      "updated_at": "2026-04-29T14:30:32.624+00:00"
+    },
+    {
+      "id": "9c8cc788-18b9-47b9-bdca-f1a0012b6076",
+      "title": "Fundamentos ABAP",
+      "type": "area",
+      "content": "",
+      "description": "Conceitos base da linguagem ABAP",
+      "tags": [
+        "ABAP"
+      ],
+      "parent_id": "1e91bb74-2a22-4b6f-818d-ed573ed8ded7",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:33.911+00:00",
+      "updated_at": "2026-04-29T14:30:33.911+00:00"
+    },
+    {
+      "id": "d62cfc11-b726-4f22-9409-5f81a6973107",
+      "title": "Sintaxe Básica",
+      "type": "desenvolvimento",
+      "content": "",
+      "description": "Comandos e estrutura básica do ABAP",
+      "tags": [
+        "ABAP",
+        "Sintaxe"
+      ],
+      "parent_id": "9c8cc788-18b9-47b9-bdca-f1a0012b6076",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:34.067+00:00",
+      "updated_at": "2026-04-29T14:30:34.067+00:00"
+    },
+    {
+      "id": "5ab3f543-e6cf-4869-a18d-9f4f0ac74a22",
+      "title": "Tipos de Dados & Variáveis",
+      "type": "desenvolvimento",
+      "content": "",
+      "description": "DATA, TYPES, CONSTANTS, FIELD-SYMBOLS",
+      "tags": [
+        "ABAP",
+        "Tipos"
+      ],
+      "parent_id": "9c8cc788-18b9-47b9-bdca-f1a0012b6076",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:34.24+00:00",
+      "updated_at": "2026-04-29T14:30:34.24+00:00"
+    },
+    {
+      "id": "bbd3e361-dad7-4dbc-9c79-8b3a7ea20b1b",
+      "title": "Internal Tables",
+      "type": "desenvolvimento",
+      "content": "",
+      "description": "STANDARD, SORTED, HASHED TABLE – operações LOOP, READ, MODIFY, DELETE",
+      "tags": [
+        "ABAP",
+        "Internal Tables"
+      ],
+      "parent_id": "9c8cc788-18b9-47b9-bdca-f1a0012b6076",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:34.406+00:00",
+      "updated_at": "2026-04-29T14:30:34.407+00:00"
+    },
+    {
+      "id": "0df12397-dece-40b9-8e2d-c1ec0177b011",
+      "title": "Modularização (FORM / FM)",
+      "type": "desenvolvimento",
+      "content": "",
+      "description": "PERFORM, FUNCTION, CALL FUNCTION, parâmetros IMPORTING/EXPORTING/TABLES/CHANGING",
+      "tags": [
+        "ABAP",
+        "Modularização"
+      ],
+      "parent_id": "9c8cc788-18b9-47b9-bdca-f1a0012b6076",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:34.563+00:00",
+      "updated_at": "2026-04-29T14:30:34.563+00:00"
+    },
+    {
+      "id": "9a603124-bf0d-4c45-b9ca-be7f57bc0338",
+      "title": "String Operations",
+      "type": "desenvolvimento",
+      "content": "",
+      "description": "CONCATENATE, SPLIT, CONDENSE, REPLACE, FIND, regex",
+      "tags": [
+        "ABAP",
+        "String"
+      ],
+      "parent_id": "9c8cc788-18b9-47b9-bdca-f1a0012b6076",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:34.715+00:00",
+      "updated_at": "2026-04-29T14:30:34.715+00:00"
+    },
+    {
+      "id": "f9b6d895-efad-421a-b0cb-219d6df6ac0b",
+      "title": "Reports & ALV",
+      "type": "area",
+      "content": "",
+      "description": "Relatórios clássicos e ALV",
+      "tags": [
+        "ABAP",
+        "Report",
+        "ALV"
+      ],
+      "parent_id": "1e91bb74-2a22-4b6f-818d-ed573ed8ded7",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:34.864+00:00",
+      "updated_at": "2026-04-29T14:30:34.864+00:00"
+    },
+    {
+      "id": "31dfe02d-1ac5-45b9-9d10-0f8ea3a2721a",
+      "title": "Report Clássico (WRITE)",
+      "type": "desenvolvimento",
+      "content": "",
+      "description": "WRITE, FORMAT, ULINE, TOP-OF-PAGE, END-OF-PAGE",
+      "tags": [
+        "ABAP",
+        "Report"
+      ],
+      "parent_id": "f9b6d895-efad-421a-b0cb-219d6df6ac0b",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:35.014+00:00",
+      "updated_at": "2026-04-29T14:30:35.014+00:00"
+    },
+    {
+      "id": "4997c121-204f-404f-a6fb-f26cf4c1e1d6",
+      "title": "ALV Grid (CL_GUI_ALV_GRID)",
+      "type": "desenvolvimento",
+      "content": "",
+      "description": "CL_GUI_ALV_GRID – fieldcat, layout, events, edit mode",
+      "tags": [
+        "ABAP",
+        "ALV"
+      ],
+      "parent_id": "f9b6d895-efad-421a-b0cb-219d6df6ac0b",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:35.163+00:00",
+      "updated_at": "2026-04-29T14:30:35.163+00:00"
+    },
+    {
+      "id": "54330ea2-2cf9-49fe-af0a-de0aa69825ea",
+      "title": "ALV com REUSE_ALV_GRID_DISPLAY",
+      "type": "desenvolvimento",
+      "content": "",
+      "description": "FM clássico de ALV, fieldcat builder, variantes",
+      "tags": [
+        "ABAP",
+        "ALV"
+      ],
+      "parent_id": "f9b6d895-efad-421a-b0cb-219d6df6ac0b",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:35.567+00:00",
+      "updated_at": "2026-04-29T14:30:35.567+00:00"
+    },
+    {
+      "id": "def13cbd-9382-4f00-97e9-5022b0d93c60",
+      "title": "ALV Tree & Hierarquia",
+      "type": "desenvolvimento",
+      "content": "",
+      "description": "CL_GUI_ALV_TREE para exibições hierárquicas",
+      "tags": [
+        "ABAP",
+        "ALV"
+      ],
+      "parent_id": "f9b6d895-efad-421a-b0cb-219d6df6ac0b",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:35.715+00:00",
+      "updated_at": "2026-04-29T14:30:35.715+00:00"
+    },
+    {
+      "id": "b09abef1-86bd-47e0-bb54-4a3761c8b12b",
+      "title": "OOP ABAP",
+      "type": "area",
+      "content": "",
+      "description": "Programação Orientada a Objetos em ABAP",
+      "tags": [
+        "ABAP",
+        "OOP"
+      ],
+      "parent_id": "1e91bb74-2a22-4b6f-818d-ed573ed8ded7",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:35.867+00:00",
+      "updated_at": "2026-04-29T14:30:35.867+00:00"
+    },
+    {
+      "id": "724f4f66-3635-441e-adc8-8b2af794d6e4",
+      "title": "Classes & Interfaces",
+      "type": "desenvolvimento",
+      "content": "",
+      "description": "CLASS, INTERFACE, METHODS, ATTRIBUTES, ALIASES",
+      "tags": [
+        "ABAP",
+        "OOP"
+      ],
+      "parent_id": "b09abef1-86bd-47e0-bb54-4a3761c8b12b",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:36.017+00:00",
+      "updated_at": "2026-04-29T14:30:36.017+00:00"
+    },
+    {
+      "id": "8d13393c-6f3b-44f2-9225-ad1363551c74",
+      "title": "Herança & Polimorfismo",
+      "type": "desenvolvimento",
+      "content": "",
+      "description": "INHERITING FROM, SUPER->, REDEFINITION, casting",
+      "tags": [
+        "ABAP",
+        "OOP"
+      ],
+      "parent_id": "b09abef1-86bd-47e0-bb54-4a3761c8b12b",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:36.165+00:00",
+      "updated_at": "2026-04-29T14:30:36.165+00:00"
+    },
+    {
+      "id": "babc3288-a78c-423c-affd-29ebdd7e0de7",
+      "title": "Exceções (CX_)",
+      "type": "desenvolvimento",
+      "content": "",
+      "description": "TRY/CATCH/CLEANUP, classes CX_, RAISE EXCEPTION",
+      "tags": [
+        "ABAP",
+        "OOP",
+        "Exceções"
+      ],
+      "parent_id": "b09abef1-86bd-47e0-bb54-4a3761c8b12b",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:36.315+00:00",
+      "updated_at": "2026-04-29T14:30:36.315+00:00"
+    },
+    {
+      "id": "3a63882d-816d-473a-a6a8-0c708b35fcb4",
+      "title": "Design Patterns em ABAP",
+      "type": "desenvolvimento",
+      "content": "",
+      "description": "Singleton, Factory, Observer, Strategy, Template Method",
+      "tags": [
+        "ABAP",
+        "OOP",
+        "Design Patterns"
+      ],
+      "parent_id": "b09abef1-86bd-47e0-bb54-4a3761c8b12b",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:36.464+00:00",
+      "updated_at": "2026-04-29T14:30:36.464+00:00"
+    },
+    {
+      "id": "2619a2cc-ac8e-4b64-9851-83fcf466fdcf",
+      "title": "Enhancements Framework",
+      "type": "area",
+      "content": "",
+      "description": "Pontos de saída e extensão de programas SAP",
+      "tags": [
+        "ABAP",
+        "Enhancement"
+      ],
+      "parent_id": "1e91bb74-2a22-4b6f-818d-ed573ed8ded7",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:36.631+00:00",
+      "updated_at": "2026-04-29T14:30:36.631+00:00"
+    },
+    {
+      "id": "70e2c4b6-ea20-43e9-af2c-b359a0fbae66",
+      "title": "User Exits (SMOD/CMOD)",
+      "type": "desenvolvimento",
+      "content": "",
+      "description": "Customer exits clássicos via SMOD/CMOD",
+      "tags": [
+        "ABAP",
+        "UserExit"
+      ],
+      "parent_id": "2619a2cc-ac8e-4b64-9851-83fcf466fdcf",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:36.781+00:00",
+      "updated_at": "2026-04-29T14:30:36.781+00:00"
+    },
+    {
+      "id": "8e1289d2-4401-4eb7-9724-981ff7eef257",
+      "title": "BAdIs (Business Add-Ins)",
+      "type": "desenvolvimento",
+      "content": "",
+      "description": "BAdIs clássicas e novas (kernel BAdI), GET_INSTANCE",
+      "tags": [
+        "ABAP",
+        "BAdI"
+      ],
+      "parent_id": "2619a2cc-ac8e-4b64-9851-83fcf466fdcf",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:36.93+00:00",
+      "updated_at": "2026-04-29T14:30:36.93+00:00"
+    },
+    {
+      "id": "3868a717-f0a9-4c1e-a0e7-ce0f69f1683c",
+      "title": "Enhancement Spots & Sections",
+      "type": "desenvolvimento",
+      "content": "",
+      "description": "Implicit/Explicit enhancements, ENHANCEMENT-POINT",
+      "tags": [
+        "ABAP",
+        "Enhancement"
+      ],
+      "parent_id": "2619a2cc-ac8e-4b64-9851-83fcf466fdcf",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:37.082+00:00",
+      "updated_at": "2026-04-29T14:30:37.082+00:00"
+    },
+    {
+      "id": "8dcb8fe6-1fd5-4c58-8d20-5324747bf210",
+      "title": "Substitutions & Validations",
+      "type": "desenvolvimento",
+      "content": "",
+      "description": "Substituições e validações FI via GGB0/GGB1",
+      "tags": [
+        "ABAP",
+        "FI",
+        "Validation"
+      ],
+      "parent_id": "2619a2cc-ac8e-4b64-9851-83fcf466fdcf",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:37.241+00:00",
+      "updated_at": "2026-04-29T14:30:37.241+00:00"
+    },
+    {
+      "id": "52e5bbd2-1760-4b65-85f8-dabe6adaf593",
+      "title": "Forms & Output",
+      "type": "area",
+      "content": "",
+      "description": "Formulários e saída de documentos",
+      "tags": [
+        "ABAP",
+        "Forms"
+      ],
+      "parent_id": "1e91bb74-2a22-4b6f-818d-ed573ed8ded7",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:37.395+00:00",
+      "updated_at": "2026-04-29T14:30:37.395+00:00"
+    },
+    {
+      "id": "e55ea1d7-273c-4f99-8b36-089b5f268a8a",
+      "title": "Smart Forms",
+      "type": "desenvolvimento",
+      "content": "",
+      "description": "SSF_FUNCTION_MODULE_NAME, SFPSY, driver programs",
+      "tags": [
+        "ABAP",
+        "SmartForms"
+      ],
+      "parent_id": "52e5bbd2-1760-4b65-85f8-dabe6adaf593",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:37.547+00:00",
+      "updated_at": "2026-04-29T14:30:37.547+00:00"
+    },
+    {
+      "id": "3cdaa4ef-441a-4ce8-99a6-102b21785121",
+      "title": "Adobe Forms (FP)",
+      "type": "desenvolvimento",
+      "content": "",
+      "description": "FP_JOB_OPEN/CLOSE, interface ADS, PDF interativo",
+      "tags": [
+        "ABAP",
+        "AdobeForms"
+      ],
+      "parent_id": "52e5bbd2-1760-4b65-85f8-dabe6adaf593",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:37.697+00:00",
+      "updated_at": "2026-04-29T14:30:37.697+00:00"
+    },
+    {
+      "id": "9ad50835-a84b-40db-8630-994a0c68d05c",
+      "title": "SAPscript",
+      "type": "desenvolvimento",
+      "content": "",
+      "description": "Formulários legados SAPscript, OPEN_FORM/CLOSE_FORM",
+      "tags": [
+        "ABAP",
+        "SAPscript"
+      ],
+      "parent_id": "52e5bbd2-1760-4b65-85f8-dabe6adaf593",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:37.845+00:00",
+      "updated_at": "2026-04-29T14:30:37.845+00:00"
+    },
+    {
+      "id": "071fab4d-d077-4d1c-a518-77100f3b81df",
+      "title": "RFC & BAPIs",
+      "type": "area",
+      "content": "",
+      "description": "Chamadas remotas e Business APIs",
+      "tags": [
+        "ABAP",
+        "RFC",
+        "BAPI"
+      ],
+      "parent_id": "1e91bb74-2a22-4b6f-818d-ed573ed8ded7",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:37.994+00:00",
+      "updated_at": "2026-04-29T14:30:37.994+00:00"
+    },
+    {
+      "id": "ca8b7a29-abaf-4b31-9d6f-c27927aabbff",
+      "title": "Tipos de RFC",
+      "type": "desenvolvimento",
+      "content": "",
+      "description": "sRFC, aRFC, bgRFC, tRFC – diferenças e uso",
+      "tags": [
+        "RFC"
+      ],
+      "parent_id": "071fab4d-d077-4d1c-a518-77100f3b81df",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:38.147+00:00",
+      "updated_at": "2026-04-29T14:30:38.147+00:00"
+    },
+    {
+      "id": "0dcff518-936a-4ccc-baf8-687e17b5c1b7",
+      "title": "BAPIs Standard",
+      "type": "desenvolvimento",
+      "content": "",
+      "description": "BAPI_SALESORDER_*, BAPI_GOODSMVT_*, BAPI_MATERIAL_*, busca no BAPI Explorer",
+      "tags": [
+        "BAPI"
+      ],
+      "parent_id": "071fab4d-d077-4d1c-a518-77100f3b81df",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:38.296+00:00",
+      "updated_at": "2026-04-29T14:30:38.296+00:00"
+    },
+    {
+      "id": "0623c2ee-8918-4233-adc4-986b545d5bfc",
+      "title": "Criação de Function Modules RFC-Enabled",
+      "type": "desenvolvimento",
+      "content": "",
+      "description": "Atributos RFC em FM, PASS BY VALUE obrigatório",
+      "tags": [
+        "RFC",
+        "ABAP"
+      ],
+      "parent_id": "071fab4d-d077-4d1c-a518-77100f3b81df",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:38.447+00:00",
+      "updated_at": "2026-04-29T14:30:38.447+00:00"
+    },
+    {
+      "id": "d11aad1b-6dd5-4d06-aa63-301c3fbc431c",
+      "title": "Destinos RFC (SM59)",
+      "type": "transacao",
+      "content": "",
+      "description": "Configuração de RFC destinations, teste de conexão",
+      "tags": [
+        "RFC",
+        "SM59"
+      ],
+      "parent_id": "071fab4d-d077-4d1c-a518-77100f3b81df",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:38.607+00:00",
+      "updated_at": "2026-04-29T14:30:38.607+00:00"
+    },
+    {
+      "id": "b173a480-76cd-4c7d-9dbc-02d613c40bcf",
+      "title": "ABAP S/4HANA",
+      "type": "pasta",
+      "content": "",
+      "description": "ABAP moderno para S/4HANA",
+      "tags": [
+        "ABAP",
+        "S4HANA"
+      ],
+      "parent_id": null,
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:38.757+00:00",
+      "updated_at": "2026-04-29T14:30:38.757+00:00"
+    },
+    {
+      "id": "24a576e2-7555-48a6-93d2-67e3d676ffe4",
+      "title": "Nova Sintaxe ABAP",
+      "type": "area",
+      "content": "",
+      "description": "Construções da nova sintaxe ABAP 7.4+",
+      "tags": [
+        "ABAP",
+        "S4HANA",
+        "Sintaxe"
+      ],
+      "parent_id": "b173a480-76cd-4c7d-9dbc-02d613c40bcf",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:38.905+00:00",
+      "updated_at": "2026-04-29T14:30:38.905+00:00"
+    },
+    {
+      "id": "1c312576-b2de-4102-81d5-ee193599f22c",
+      "title": "Inline Declarations (DATA/FIELD-SYMBOLS)",
+      "type": "desenvolvimento",
+      "content": "",
+      "description": "DATA(...), FIELD-SYMBOL(...), ASSIGN ... TO ..., FINAL",
+      "tags": [
+        "ABAP",
+        "S4HANA"
+      ],
+      "parent_id": "24a576e2-7555-48a6-93d2-67e3d676ffe4",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:39.057+00:00",
+      "updated_at": "2026-04-29T14:30:39.057+00:00"
+    },
+    {
+      "id": "4f2a9d83-283a-4870-8207-85ef24d146e1",
+      "title": "String Templates & Operadores",
+      "type": "desenvolvimento",
+      "content": "",
+      "description": "|...|, COND, SWITCH, REDUCE, FILTER, FOR, VALUE, NEW",
+      "tags": [
+        "ABAP",
+        "S4HANA"
+      ],
+      "parent_id": "24a576e2-7555-48a6-93d2-67e3d676ffe4",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:39.208+00:00",
+      "updated_at": "2026-04-29T14:30:39.208+00:00"
+    },
+    {
+      "id": "86ceb6e7-b622-4483-9615-ce5c985c93ba",
+      "title": "ABAP SQL (SELECT aprimorado)",
+      "type": "desenvolvimento",
+      "content": "",
+      "description": "SELECT com expressions, subqueries, CTE (WITH), PATH, GROUP BY com GROUPING SETS",
+      "tags": [
+        "ABAP",
+        "S4HANA",
+        "SQL"
+      ],
+      "parent_id": "24a576e2-7555-48a6-93d2-67e3d676ffe4",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:39.356+00:00",
+      "updated_at": "2026-04-29T14:30:39.356+00:00"
+    },
+    {
+      "id": "d19994e7-e6cb-475f-b8b5-334d4ac5f73f",
+      "title": "Mesh & Constructor Expressions",
+      "type": "desenvolvimento",
+      "content": "",
+      "description": "CORRESPONDING, BASE, EXACT, CAST, REF",
+      "tags": [
+        "ABAP",
+        "S4HANA"
+      ],
+      "parent_id": "24a576e2-7555-48a6-93d2-67e3d676ffe4",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:39.525+00:00",
+      "updated_at": "2026-04-29T14:30:39.525+00:00"
+    },
+    {
+      "id": "445d0999-c171-4cfe-946c-4d1ec1dd6483",
+      "title": "RAP – RESTful App Programming",
+      "type": "area",
+      "content": "",
+      "description": "Modelo de programação RAP para S/4HANA e BTP",
+      "tags": [
+        "ABAP",
+        "RAP",
+        "S4HANA"
+      ],
+      "parent_id": "b173a480-76cd-4c7d-9dbc-02d613c40bcf",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:39.674+00:00",
+      "updated_at": "2026-04-29T14:30:39.674+00:00"
+    },
+    {
+      "id": "dd84437d-5c73-4cdd-a821-6fab296f87df",
+      "title": "Business Objects (BO)",
+      "type": "desenvolvimento",
+      "content": "",
+      "description": "Estrutura de um BO: root entity, compositions, associations",
+      "tags": [
+        "RAP",
+        "S4HANA"
+      ],
+      "parent_id": "445d0999-c171-4cfe-946c-4d1ec1dd6483",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:39.822+00:00",
+      "updated_at": "2026-04-29T14:30:39.822+00:00"
+    },
+    {
+      "id": "d483bbab-b854-403e-9700-b292023b84f5",
+      "title": "Behavior Definition (BDEF)",
+      "type": "desenvolvimento",
+      "content": "",
+      "description": "managed/unmanaged, create/update/delete, actions, functions, determinations, validations",
+      "tags": [
+        "RAP",
+        "BDEF"
+      ],
+      "parent_id": "445d0999-c171-4cfe-946c-4d1ec1dd6483",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:39.972+00:00",
+      "updated_at": "2026-04-29T14:30:39.972+00:00"
+    },
+    {
+      "id": "7375432e-c02e-4ed2-80c8-b550f03706c2",
+      "title": "Behavior Implementation (ABAP Class)",
+      "type": "desenvolvimento",
+      "content": "",
+      "description": "FOR MODIFY, FOR VALIDATE, FOR DETERMINE, FOR ACTION, side effects",
+      "tags": [
+        "RAP",
+        "ABAP"
+      ],
+      "parent_id": "445d0999-c171-4cfe-946c-4d1ec1dd6483",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:40.123+00:00",
+      "updated_at": "2026-04-29T14:30:40.123+00:00"
+    },
+    {
+      "id": "a6e13d79-f2e4-4b0d-8a2d-5ab73581e5ce",
+      "title": "Service Definition & Binding",
+      "type": "desenvolvimento",
+      "content": "",
+      "description": "SRVD, SRVB, OData V2/V4 exposure",
+      "tags": [
+        "RAP",
+        "OData",
+        "S4HANA"
+      ],
+      "parent_id": "445d0999-c171-4cfe-946c-4d1ec1dd6483",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:40.272+00:00",
+      "updated_at": "2026-04-29T14:30:40.272+00:00"
+    },
+    {
+      "id": "bf2f9d43-3042-477c-99d5-10b2112c9ef6",
+      "title": "Draft Handling",
+      "type": "desenvolvimento",
+      "content": "",
+      "description": "Draft enable, ETAG, lock mechanism, activate/discard",
+      "tags": [
+        "RAP",
+        "S4HANA",
+        "Draft"
+      ],
+      "parent_id": "445d0999-c171-4cfe-946c-4d1ec1dd6483",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:40.422+00:00",
+      "updated_at": "2026-04-29T14:30:40.422+00:00"
+    },
+    {
+      "id": "d08cef05-2f1a-4110-9207-f78d63dad63f",
+      "title": "ABAP Unit Test",
+      "type": "area",
+      "content": "",
+      "description": "Testes unitários em ABAP",
+      "tags": [
+        "ABAP",
+        "Test"
+      ],
+      "parent_id": "b173a480-76cd-4c7d-9dbc-02d613c40bcf",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:40.574+00:00",
+      "updated_at": "2026-04-29T14:30:40.574+00:00"
+    },
+    {
+      "id": "512cb442-688d-4cf3-856b-0d78620c0f97",
+      "title": "Estrutura de Test Class",
+      "type": "desenvolvimento",
+      "content": "",
+      "description": "FOR TESTING, RISK LEVEL, DURATION, setup/teardown methods",
+      "tags": [
+        "ABAP",
+        "UnitTest"
+      ],
+      "parent_id": "d08cef05-2f1a-4110-9207-f78d63dad63f",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:40.727+00:00",
+      "updated_at": "2026-04-29T14:30:40.727+00:00"
+    },
+    {
+      "id": "3ae91245-c9ec-435d-a243-52553e0601ea",
+      "title": "Test Doubles & Mocks",
+      "type": "desenvolvimento",
+      "content": "",
+      "description": "Test seam, td_double, IF_OSQL_TEST_ENVIRONMENT, CL_ABAP_TESTDOUBLE",
+      "tags": [
+        "ABAP",
+        "UnitTest",
+        "Mock"
+      ],
+      "parent_id": "d08cef05-2f1a-4110-9207-f78d63dad63f",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:40.884+00:00",
+      "updated_at": "2026-04-29T14:30:40.884+00:00"
+    },
+    {
+      "id": "8cbdc3f2-dbaf-4543-b3b3-0535e7033110",
+      "title": "Code Coverage & ATC",
+      "type": "desenvolvimento",
+      "content": "",
+      "description": "ABAP Test Cockpit, ATC checks, findings, priorização",
+      "tags": [
+        "ABAP",
+        "ATC",
+        "Coverage"
+      ],
+      "parent_id": "d08cef05-2f1a-4110-9207-f78d63dad63f",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:41.051+00:00",
+      "updated_at": "2026-04-29T14:30:41.051+00:00"
+    },
+    {
+      "id": "2ec4f70d-f6fa-4087-afd8-15f21be04dde",
+      "title": "ABAP Git & ADT",
+      "type": "area",
+      "content": "",
+      "description": "Ferramentas de desenvolvimento moderno",
+      "tags": [
+        "ABAP",
+        "Git",
+        "ADT"
+      ],
+      "parent_id": "b173a480-76cd-4c7d-9dbc-02d613c40bcf",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:41.202+00:00",
+      "updated_at": "2026-04-29T14:30:41.202+00:00"
+    },
+    {
+      "id": "7f879f99-ce25-446c-be2c-134a1c9fc094",
+      "title": "Configuração Eclipse ADT",
+      "type": "desenvolvimento",
+      "content": "",
+      "description": "Instalação, conexão ao sistema, atalhos, plugins recomendados",
+      "tags": [
+        "ADT",
+        "Eclipse"
+      ],
+      "parent_id": "2ec4f70d-f6fa-4087-afd8-15f21be04dde",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:41.354+00:00",
+      "updated_at": "2026-04-29T14:30:41.354+00:00"
+    },
+    {
+      "id": "fd4fb345-4f18-4b21-ba89-e593a13d51c7",
+      "title": "abapGit – Repositórios",
+      "type": "desenvolvimento",
+      "content": "",
+      "description": "Criar/linkar repositório, pull, push, branches, conflitos",
+      "tags": [
+        "abapGit",
+        "Git"
+      ],
+      "parent_id": "2ec4f70d-f6fa-4087-afd8-15f21be04dde",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:41.507+00:00",
+      "updated_at": "2026-04-29T14:30:41.507+00:00"
+    },
+    {
+      "id": "cc8ac01c-c70c-4b01-a4b8-0c17e7924ea4",
+      "title": "ABAP Cleaner & Pretty Printer",
+      "type": "desenvolvimento",
+      "content": "",
+      "description": "Code cleanup rules, formatação automática via ABAP Cleaner",
+      "tags": [
+        "ABAP",
+        "ADT"
+      ],
+      "parent_id": "2ec4f70d-f6fa-4087-afd8-15f21be04dde",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:41.659+00:00",
+      "updated_at": "2026-04-29T14:30:41.659+00:00"
+    },
+    {
+      "id": "dcd34335-866e-4207-bb49-d3d270298362",
+      "title": "CDS Views",
+      "type": "pasta",
+      "content": "",
+      "description": "Core Data Services – modelagem de dados ABAP",
+      "tags": [
+        "CDS",
+        "ABAP",
+        "S4HANA"
+      ],
+      "parent_id": null,
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:41.808+00:00",
+      "updated_at": "2026-04-29T14:30:41.808+00:00"
+    },
+    {
+      "id": "52f2cebe-5ecb-4b9b-8670-9ec8accbc299",
+      "title": "Estrutura de Código",
+      "type": "area",
+      "content": "",
+      "description": "Sintaxe e estrutura das CDS Views",
+      "tags": [
+        "CDS",
+        "Sintaxe"
+      ],
+      "parent_id": "dcd34335-866e-4207-bb49-d3d270298362",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:41.961+00:00",
+      "updated_at": "2026-04-29T14:30:41.961+00:00"
+    },
+    {
+      "id": "3fe195f1-9b99-42b4-ba3f-3458872029c9",
+      "title": "DDL Source (DDLS)",
+      "type": "desenvolvimento",
+      "content": "",
+      "description": "@AbapCatalog.sqlViewName, DEFINE VIEW, AS SELECT FROM",
+      "tags": [
+        "CDS",
+        "DDL"
+      ],
+      "parent_id": "52f2cebe-5ecb-4b9b-8670-9ec8accbc299",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:42.115+00:00",
+      "updated_at": "2026-04-29T14:30:42.115+00:00"
+    },
+    {
+      "id": "f157789d-683d-49bf-8af2-5ddce49f26f5",
+      "title": "View Entities (S4HANA 2020+)",
+      "type": "desenvolvimento",
+      "content": "",
+      "description": "DEFINE VIEW ENTITY – sem sqlViewName, novo padrão RAP",
+      "tags": [
+        "CDS",
+        "ViewEntity",
+        "S4HANA"
+      ],
+      "parent_id": "52f2cebe-5ecb-4b9b-8670-9ec8accbc299",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:42.267+00:00",
+      "updated_at": "2026-04-29T14:30:42.267+00:00"
+    },
+    {
+      "id": "b5739cde-9c3c-4969-a275-18f733b37f81",
+      "title": "Projection Views (BDEF)",
+      "type": "desenvolvimento",
+      "content": "",
+      "description": "DEFINE ROOT VIEW ENTITY com PROJECTION, redirecionamento de associações",
+      "tags": [
+        "CDS",
+        "RAP",
+        "Projection"
+      ],
+      "parent_id": "52f2cebe-5ecb-4b9b-8670-9ec8accbc299",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:42.416+00:00",
+      "updated_at": "2026-04-29T14:30:42.416+00:00"
+    },
+    {
+      "id": "aecd47b7-ec82-418b-86f5-d9282a2407e7",
+      "title": "Parameters em CDS",
+      "type": "desenvolvimento",
+      "content": "",
+      "description": "WITH PARAMETERS, $parameters, tipos ABAP em parâmetros",
+      "tags": [
+        "CDS",
+        "Parameters"
+      ],
+      "parent_id": "52f2cebe-5ecb-4b9b-8670-9ec8accbc299",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:42.564+00:00",
+      "updated_at": "2026-04-29T14:30:42.564+00:00"
+    },
+    {
+      "id": "6e0dbad0-ba18-4e4a-9373-9d23cf638b3c",
+      "title": "CASE / CAST / COALESCE",
+      "type": "desenvolvimento",
+      "content": "",
+      "description": "Expressões condicionais e de tipo dentro de CDS",
+      "tags": [
+        "CDS",
+        "Expressões"
+      ],
+      "parent_id": "52f2cebe-5ecb-4b9b-8670-9ec8accbc299",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:42.859+00:00",
+      "updated_at": "2026-04-29T14:30:42.859+00:00"
+    },
+    {
+      "id": "acef1f17-5ef7-4925-a2d2-907e67ee8fe4",
+      "title": "Annotations",
+      "type": "area",
+      "content": "",
+      "description": "Anotações CDS para diversas finalidades",
+      "tags": [
+        "CDS",
+        "Annotations"
+      ],
+      "parent_id": "dcd34335-866e-4207-bb49-d3d270298362",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:43.007+00:00",
+      "updated_at": "2026-04-29T14:30:43.007+00:00"
+    },
+    {
+      "id": "c38c7d48-4c65-4b01-b983-c59c573970b9",
+      "title": "@AbapCatalog",
+      "type": "desenvolvimento",
+      "content": "",
+      "description": "sqlViewName, viewEnhancementCategory, compiler.compareFilter, buffering",
+      "tags": [
+        "CDS",
+        "@AbapCatalog"
+      ],
+      "parent_id": "acef1f17-5ef7-4925-a2d2-907e67ee8fe4",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:43.157+00:00",
+      "updated_at": "2026-04-29T14:30:43.157+00:00"
+    },
+    {
+      "id": "86d1db71-1d70-4511-bfee-feba381b0a8f",
+      "title": "@Analytics",
+      "type": "desenvolvimento",
+      "content": "",
+      "description": "@Analytics.dataCategory, @Analytics.query – Embedded Analytics",
+      "tags": [
+        "CDS",
+        "@Analytics",
+        "Analytics"
+      ],
+      "parent_id": "acef1f17-5ef7-4925-a2d2-907e67ee8fe4",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:43.307+00:00",
+      "updated_at": "2026-04-29T14:30:43.307+00:00"
+    },
+    {
+      "id": "032417a5-3dc1-404a-ba6e-c03c467130c1",
+      "title": "@OData.publish & @OData.entityType",
+      "type": "desenvolvimento",
+      "content": "",
+      "description": "Exposição automática OData V2, entityType, entitySet",
+      "tags": [
+        "CDS",
+        "@OData",
+        "OData"
+      ],
+      "parent_id": "acef1f17-5ef7-4925-a2d2-907e67ee8fe4",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:43.458+00:00",
+      "updated_at": "2026-04-29T14:30:43.458+00:00"
+    },
+    {
+      "id": "37a7e0a5-013f-431e-a994-567c9be45f3c",
+      "title": "@Search",
+      "type": "desenvolvimento",
+      "content": "",
+      "description": "@Search.searchable, @Search.defaultSearchElement, @Search.fuzzinessThreshold",
+      "tags": [
+        "CDS",
+        "@Search",
+        "Fiori"
+      ],
+      "parent_id": "acef1f17-5ef7-4925-a2d2-907e67ee8fe4",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:43.61+00:00",
+      "updated_at": "2026-04-29T14:30:43.61+00:00"
+    },
+    {
+      "id": "5cb8bad1-0a23-4a2b-819f-12d7b5aa15d6",
+      "title": "@UI (Fiori Elements)",
+      "type": "desenvolvimento",
+      "content": "",
+      "description": "@UI.lineItem, @UI.fieldGroup, @UI.selectionField, @UI.chart, @UI.headerInfo – anotações de layout Fiori",
+      "tags": [
+        "CDS",
+        "@UI",
+        "Fiori"
+      ],
+      "parent_id": "acef1f17-5ef7-4925-a2d2-907e67ee8fe4",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:43.761+00:00",
+      "updated_at": "2026-04-29T14:30:43.761+00:00"
+    },
+    {
+      "id": "7c9eddd4-d008-485f-8778-b8c83451efc2",
+      "title": "@AccessControl.authorizationCheck",
+      "type": "desenvolvimento",
+      "content": "",
+      "description": "#CHECK, #NOT_REQUIRED, #NOT_ALLOWED – controle de autorização",
+      "tags": [
+        "CDS",
+        "@AccessControl",
+        "Auth"
+      ],
+      "parent_id": "acef1f17-5ef7-4925-a2d2-907e67ee8fe4",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:43.914+00:00",
+      "updated_at": "2026-04-29T14:30:43.914+00:00"
+    },
+    {
+      "id": "57a2c299-4d74-4479-90d2-2e982dbc03ba",
+      "title": "@Semantics",
+      "type": "desenvolvimento",
+      "content": "",
+      "description": "@Semantics.amount.currencyCode, @Semantics.quantity.unitOfMeasure, @Semantics.text",
+      "tags": [
+        "CDS",
+        "@Semantics"
+      ],
+      "parent_id": "acef1f17-5ef7-4925-a2d2-907e67ee8fe4",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:44.068+00:00",
+      "updated_at": "2026-04-29T14:30:44.068+00:00"
+    },
+    {
+      "id": "9a3449fb-eca2-493f-966e-b057c3338835",
+      "title": "@Consumption",
+      "type": "desenvolvimento",
+      "content": "",
+      "description": "@Consumption.valueHelpDefinition, @Consumption.filter, @Consumption.sort",
+      "tags": [
+        "CDS",
+        "@Consumption",
+        "Fiori"
+      ],
+      "parent_id": "acef1f17-5ef7-4925-a2d2-907e67ee8fe4",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:44.219+00:00",
+      "updated_at": "2026-04-29T14:30:44.219+00:00"
+    },
+    {
+      "id": "2b022be2-a69a-4d27-aa31-1dd0e3a42667",
+      "title": "Associações & Joins",
+      "type": "area",
+      "content": "",
+      "description": "Relacionamentos entre entidades CDS",
+      "tags": [
+        "CDS",
+        "Associações"
+      ],
+      "parent_id": "dcd34335-866e-4207-bb49-d3d270298362",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:44.369+00:00",
+      "updated_at": "2026-04-29T14:30:44.369+00:00"
+    },
+    {
+      "id": "c0219988-f073-4f46-9dc0-e474130d1c58",
+      "title": "Associations (TO ONE / TO MANY)",
+      "type": "desenvolvimento",
+      "content": "",
+      "description": "ASSOCIATION [0..1] TO / [0..*] TO, ON condition, REDIRECTED TO",
+      "tags": [
+        "CDS",
+        "Associations"
+      ],
+      "parent_id": "2b022be2-a69a-4d27-aa31-1dd0e3a42667",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:44.517+00:00",
+      "updated_at": "2026-04-29T14:30:44.517+00:00"
+    },
+    {
+      "id": "0b4ca252-1489-4eeb-93c9-02ee8d91c07b",
+      "title": "Compositions (RAP)",
+      "type": "desenvolvimento",
+      "content": "",
+      "description": "COMPOSITION OF – hierarquia pai/filho em Business Objects",
+      "tags": [
+        "CDS",
+        "RAP",
+        "Composition"
+      ],
+      "parent_id": "2b022be2-a69a-4d27-aa31-1dd0e3a42667",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:44.666+00:00",
+      "updated_at": "2026-04-29T14:30:44.666+00:00"
+    },
+    {
+      "id": "a8dd6219-229f-45fd-8443-39ba50490ff1",
+      "title": "JOIN Types (INNER/LEFT OUTER)",
+      "type": "desenvolvimento",
+      "content": "",
+      "description": "JOIN, LEFT OUTER JOIN, filtros no ON vs WHERE",
+      "tags": [
+        "CDS",
+        "JOIN"
+      ],
+      "parent_id": "2b022be2-a69a-4d27-aa31-1dd0e3a42667",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:44.815+00:00",
+      "updated_at": "2026-04-29T14:30:44.815+00:00"
+    },
+    {
+      "id": "186cba29-b2e0-4f11-8ab6-8edaabe78ba9",
+      "title": "PATH Expressions",
+      "type": "desenvolvimento",
+      "content": "",
+      "description": "Navegação por associações no SELECT, _Association.field",
+      "tags": [
+        "CDS",
+        "PATH"
+      ],
+      "parent_id": "2b022be2-a69a-4d27-aa31-1dd0e3a42667",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:44.965+00:00",
+      "updated_at": "2026-04-29T14:30:44.965+00:00"
+    },
+    {
+      "id": "ffe58266-6570-408b-a56a-72982ae2236a",
+      "title": "VDM (Virtual Data Model)",
+      "type": "area",
+      "content": "",
+      "description": "Camadas de modelagem VDM S/4HANA",
+      "tags": [
+        "CDS",
+        "VDM",
+        "S4HANA"
+      ],
+      "parent_id": "dcd34335-866e-4207-bb49-d3d270298362",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:45.118+00:00",
+      "updated_at": "2026-04-29T14:30:45.118+00:00"
+    },
+    {
+      "id": "dfa402ee-b654-473e-a78e-2a9168b7e58f",
+      "title": "Interface Views (I_)",
+      "type": "desenvolvimento",
+      "content": "",
+      "description": "Camada de dados brutos, prefixo I_, sem restrições de negócio",
+      "tags": [
+        "CDS",
+        "VDM",
+        "I_"
+      ],
+      "parent_id": "ffe58266-6570-408b-a56a-72982ae2236a",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:45.267+00:00",
+      "updated_at": "2026-04-29T14:30:45.267+00:00"
+    },
+    {
+      "id": "6fc0b88c-00da-4901-8bbe-fa4b534f09e6",
+      "title": "Consumption Views (C_)",
+      "type": "desenvolvimento",
+      "content": "",
+      "description": "Camada de consumo com UI annotations, prefixo C_",
+      "tags": [
+        "CDS",
+        "VDM",
+        "C_"
+      ],
+      "parent_id": "ffe58266-6570-408b-a56a-72982ae2236a",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:45.422+00:00",
+      "updated_at": "2026-04-29T14:30:45.422+00:00"
+    },
+    {
+      "id": "04a1fa39-431e-4d30-9492-029e71607f4c",
+      "title": "Extension Views (E_)",
+      "type": "desenvolvimento",
+      "content": "",
+      "description": "Extensões de cliente sobre views SAP standard",
+      "tags": [
+        "CDS",
+        "VDM",
+        "Extension"
+      ],
+      "parent_id": "ffe58266-6570-408b-a56a-72982ae2236a",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:45.575+00:00",
+      "updated_at": "2026-04-29T14:30:45.575+00:00"
+    },
+    {
+      "id": "645cb8db-2d11-46f8-9e83-83bc726bc909",
+      "title": "Naming Conventions VDM",
+      "type": "desenvolvimento",
+      "content": "",
+      "description": "Regras de nomenclatura: I_, C_, E_, A_, P_ – e suas camadas",
+      "tags": [
+        "CDS",
+        "VDM"
+      ],
+      "parent_id": "ffe58266-6570-408b-a56a-72982ae2236a",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:45.726+00:00",
+      "updated_at": "2026-04-29T14:30:45.726+00:00"
+    },
+    {
+      "id": "80041eb7-32a1-4747-b37d-9b6190306eb2",
+      "title": "Access Control (DCL)",
+      "type": "area",
+      "content": "",
+      "description": "Controle de acesso a CDS Views via PFCG/DCL",
+      "tags": [
+        "CDS",
+        "DCL",
+        "Auth",
+        "Security"
+      ],
+      "parent_id": "dcd34335-866e-4207-bb49-d3d270298362",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:45.877+00:00",
+      "updated_at": "2026-04-29T14:30:45.877+00:00"
+    },
+    {
+      "id": "63ca14df-6189-4cb1-b181-bc1e90f6f6f5",
+      "title": "DEFINE ROLE",
+      "type": "desenvolvimento",
+      "content": "",
+      "description": "DEFINE ROLE, GRANT SELECT ON, condições WHERE por campo de autorização",
+      "tags": [
+        "CDS",
+        "DCL",
+        "Auth"
+      ],
+      "parent_id": "80041eb7-32a1-4747-b37d-9b6190306eb2",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:46.028+00:00",
+      "updated_at": "2026-04-29T14:30:46.028+00:00"
+    },
+    {
+      "id": "30a8d50e-28fa-4f04-a22b-c548f9cf7327",
+      "title": "Inheritance em DCL",
+      "type": "desenvolvimento",
+      "content": "",
+      "description": "@MandatoryAuthorizationCheck, herança de roles entre views",
+      "tags": [
+        "CDS",
+        "DCL",
+        "Auth"
+      ],
+      "parent_id": "80041eb7-32a1-4747-b37d-9b6190306eb2",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:46.179+00:00",
+      "updated_at": "2026-04-29T14:30:46.179+00:00"
+    },
+    {
+      "id": "8b339b57-01a1-4ef0-87f8-49d7b4f5fbe3",
+      "title": "Integração com PFCG",
+      "type": "desenvolvimento",
+      "content": "",
+      "description": "Criar objetos de autorização, campos auth em CDS, teste via SU53",
+      "tags": [
+        "CDS",
+        "Auth",
+        "PFCG"
+      ],
+      "parent_id": "80041eb7-32a1-4747-b37d-9b6190306eb2",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:46.327+00:00",
+      "updated_at": "2026-04-29T14:30:46.327+00:00"
+    },
+    {
+      "id": "7b3920c5-b9ef-445a-9970-87e3adea5d22",
+      "title": "Performance CDS",
+      "type": "area",
+      "content": "",
+      "description": "Análise e otimização de CDS Views",
+      "tags": [
+        "CDS",
+        "Performance",
+        "S4HANA"
+      ],
+      "parent_id": "dcd34335-866e-4207-bb49-d3d270298362",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:46.477+00:00",
+      "updated_at": "2026-04-29T14:30:46.477+00:00"
+    },
+    {
+      "id": "5405235b-5b06-4760-b652-b1770e651486",
+      "title": "EXPLAIN PLAN em CDS",
+      "type": "desenvolvimento",
+      "content": "",
+      "description": "PlanViz no ADT, análise de execution plan, index usage",
+      "tags": [
+        "CDS",
+        "Performance",
+        "ADT"
+      ],
+      "parent_id": "7b3920c5-b9ef-445a-9970-87e3adea5d22",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:46.654+00:00",
+      "updated_at": "2026-04-29T14:30:46.654+00:00"
+    },
+    {
+      "id": "2fc5d038-04a7-4e95-a774-c6286f5605da",
+      "title": "Buffering de CDS Views",
+      "type": "desenvolvimento",
+      "content": "",
+      "description": "@AbapCatalog.buffering.status, tipos de buffer: #SINGLE, #GENERIC, #FULL",
+      "tags": [
+        "CDS",
+        "Performance",
+        "Buffer"
+      ],
+      "parent_id": "7b3920c5-b9ef-445a-9970-87e3adea5d22",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:46.806+00:00",
+      "updated_at": "2026-04-29T14:30:46.806+00:00"
+    },
+    {
+      "id": "24fa2c2a-2c01-46e6-8841-cfc59ff9f3a5",
+      "title": "CDS Table Functions",
+      "type": "desenvolvimento",
+      "content": "",
+      "description": "DEFINE TABLE FUNCTION, AMDP implementation, casos de uso",
+      "tags": [
+        "CDS",
+        "AMDP",
+        "Performance"
+      ],
+      "parent_id": "7b3920c5-b9ef-445a-9970-87e3adea5d22",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:46.957+00:00",
+      "updated_at": "2026-04-29T14:30:46.957+00:00"
+    },
+    {
+      "id": "34b3d182-adda-48ef-b972-3e78d4920878",
+      "title": "Fiori / UI5",
+      "type": "pasta",
+      "content": "",
+      "description": "Desenvolvimento e configuração de apps SAP Fiori e SAPUI5",
+      "tags": [
+        "Fiori",
+        "UI5"
+      ],
+      "parent_id": null,
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:47.109+00:00",
+      "updated_at": "2026-04-29T14:30:47.109+00:00"
+    },
+    {
+      "id": "8361f731-5cec-4b93-b12d-06c0263ffb89",
+      "title": "Fiori Elements",
+      "type": "area",
+      "content": "",
+      "description": "Apps baseados em anotações CDS/OData",
+      "tags": [
+        "Fiori",
+        "FioriElements"
+      ],
+      "parent_id": "34b3d182-adda-48ef-b972-3e78d4920878",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:47.26+00:00",
+      "updated_at": "2026-04-29T14:30:47.26+00:00"
+    },
+    {
+      "id": "ed3ce639-c59a-4782-8920-9f0a15f2595f",
+      "title": "List Report",
+      "type": "fiori",
+      "content": "",
+      "description": "Template List Report com @UI.selectionField, @UI.lineItem, filtros e tabela",
+      "tags": [
+        "Fiori",
+        "ListReport"
+      ],
+      "parent_id": "8361f731-5cec-4b93-b12d-06c0263ffb89",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:47.41+00:00",
+      "updated_at": "2026-04-29T14:30:47.41+00:00"
+    },
+    {
+      "id": "2f3a9be7-c6c3-427f-ada3-3e718b3e1ea9",
+      "title": "Object Page",
+      "type": "fiori",
+      "content": "",
+      "description": "Object Page com @UI.fieldGroup, @UI.facet, sections e subsections",
+      "tags": [
+        "Fiori",
+        "ObjectPage"
+      ],
+      "parent_id": "8361f731-5cec-4b93-b12d-06c0263ffb89",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:47.564+00:00",
+      "updated_at": "2026-04-29T14:30:47.564+00:00"
+    },
+    {
+      "id": "52f3a7ab-bbda-4657-a83b-fbeafe8d2510",
+      "title": "Analytical List Page (ALP)",
+      "type": "fiori",
+      "content": "",
+      "description": "ALP com @UI.chart, @UI.presentationVariant, indicadores visuais",
+      "tags": [
+        "Fiori",
+        "ALP",
+        "Analytics"
+      ],
+      "parent_id": "8361f731-5cec-4b93-b12d-06c0263ffb89",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:47.716+00:00",
+      "updated_at": "2026-04-29T14:30:47.716+00:00"
+    },
+    {
+      "id": "281cc731-bb5f-440c-8050-0cb8d2a47934",
+      "title": "Overview Page (OVP)",
+      "type": "fiori",
+      "content": "",
+      "description": "Cards de dados heterogêneos, @UI.identification, @UI.dataPoint",
+      "tags": [
+        "Fiori",
+        "OVP"
+      ],
+      "parent_id": "8361f731-5cec-4b93-b12d-06c0263ffb89",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:47.876+00:00",
+      "updated_at": "2026-04-29T14:30:47.876+00:00"
+    },
+    {
+      "id": "785a0add-272f-4611-a23f-4457cbbcf429",
+      "title": "Form-Based Entry (Worklist)",
+      "type": "fiori",
+      "content": "",
+      "description": "Worklist Object template, busca e lista simplificada",
+      "tags": [
+        "Fiori",
+        "Worklist"
+      ],
+      "parent_id": "8361f731-5cec-4b93-b12d-06c0263ffb89",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:48.029+00:00",
+      "updated_at": "2026-04-29T14:30:48.029+00:00"
+    },
+    {
+      "id": "dc8c14ca-cded-4e40-898e-a30d9826e78f",
+      "title": "Freestyle SAPUI5",
+      "type": "area",
+      "content": "",
+      "description": "Desenvolvimento customizado com SAPUI5",
+      "tags": [
+        "Fiori",
+        "UI5",
+        "Freestyle"
+      ],
+      "parent_id": "34b3d182-adda-48ef-b972-3e78d4920878",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:48.208+00:00",
+      "updated_at": "2026-04-29T14:30:48.208+00:00"
+    },
+    {
+      "id": "c45dc7db-a188-4d87-9ae1-17b5513635ac",
+      "title": "MVC – Controller",
+      "type": "fiori",
+      "content": "",
+      "description": "onInit, onBeforeRendering, onAfterRendering, onExit, lifecycle",
+      "tags": [
+        "UI5",
+        "MVC",
+        "Controller"
+      ],
+      "parent_id": "dc8c14ca-cded-4e40-898e-a30d9826e78f",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:48.361+00:00",
+      "updated_at": "2026-04-29T14:30:48.361+00:00"
+    },
+    {
+      "id": "0cd2e5e4-045f-4576-b404-c9614dcc1b8a",
+      "title": "MVC – View (XML)",
+      "type": "fiori",
+      "content": "",
+      "description": "XMLView, fragments, custom controls, binding syntax {path}",
+      "tags": [
+        "UI5",
+        "MVC",
+        "View",
+        "XML"
+      ],
+      "parent_id": "dc8c14ca-cded-4e40-898e-a30d9826e78f",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:48.513+00:00",
+      "updated_at": "2026-04-29T14:30:48.513+00:00"
+    },
+    {
+      "id": "b136595b-9756-472e-be6a-67fa9d15a93b",
+      "title": "Models (JSON / OData)",
+      "type": "fiori",
+      "content": "",
+      "description": "JSONModel, ODataModel V2/V4, two-way binding, setProperty",
+      "tags": [
+        "UI5",
+        "Model",
+        "OData"
+      ],
+      "parent_id": "dc8c14ca-cded-4e40-898e-a30d9826e78f",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:48.661+00:00",
+      "updated_at": "2026-04-29T14:30:48.661+00:00"
+    },
+    {
+      "id": "48add614-69f4-4476-99bd-f8a1a094f160",
+      "title": "Routing & Navigation",
+      "type": "fiori",
+      "content": "",
+      "description": "manifest.json routing, Router, NavContainer, hash-based navigation",
+      "tags": [
+        "UI5",
+        "Routing"
+      ],
+      "parent_id": "dc8c14ca-cded-4e40-898e-a30d9826e78f",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:48.811+00:00",
+      "updated_at": "2026-04-29T14:30:48.811+00:00"
+    },
+    {
+      "id": "adc0c377-616e-4bef-a7d3-4d5bc1eaa059",
+      "title": "Fragments & Dialogs",
+      "type": "fiori",
+      "content": "",
+      "description": "sap.m.Dialog, Fragment.load, reusable fragments, popover",
+      "tags": [
+        "UI5",
+        "Fragment",
+        "Dialog"
+      ],
+      "parent_id": "dc8c14ca-cded-4e40-898e-a30d9826e78f",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:48.96+00:00",
+      "updated_at": "2026-04-29T14:30:48.96+00:00"
+    },
+    {
+      "id": "5f71ff36-0749-4d9c-bedc-731a5844f7dc",
+      "title": "OData Services",
+      "type": "area",
+      "content": "",
+      "description": "Criação e consumo de serviços OData no SAP",
+      "tags": [
+        "OData",
+        "Fiori",
+        "S4HANA"
+      ],
+      "parent_id": "34b3d182-adda-48ef-b972-3e78d4920878",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:49.113+00:00",
+      "updated_at": "2026-04-29T14:30:49.113+00:00"
+    },
+    {
+      "id": "39dfc7ec-8d7c-4722-be03-ac5f66c5421a",
+      "title": "OData V2 – SAP Gateway (SEGW)",
+      "type": "desenvolvimento",
+      "content": "",
+      "description": "SEGW project, entity types, associations, CRUD methods, IWBEP",
+      "tags": [
+        "OData",
+        "V2",
+        "SEGW",
+        "Gateway"
+      ],
+      "parent_id": "5f71ff36-0749-4d9c-bedc-731a5844f7dc",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:49.262+00:00",
+      "updated_at": "2026-04-29T14:30:49.262+00:00"
+    },
+    {
+      "id": "7faf3887-d624-4680-a6d9-fcf1bed005cd",
+      "title": "OData V4 – via RAP",
+      "type": "desenvolvimento",
+      "content": "",
+      "description": "Service binding OData V4, draft, actions, functions, $batch",
+      "tags": [
+        "OData",
+        "V4",
+        "RAP"
+      ],
+      "parent_id": "5f71ff36-0749-4d9c-bedc-731a5844f7dc",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:49.412+00:00",
+      "updated_at": "2026-04-29T14:30:49.412+00:00"
+    },
+    {
+      "id": "fa2943df-215d-4cee-92e4-55efea037a2a",
+      "title": "Filtros, Expand & Select",
+      "type": "desenvolvimento",
+      "content": "",
+      "description": "$filter, $expand, $select, $top, $skip, $orderby – client-side query options",
+      "tags": [
+        "OData",
+        "Query"
+      ],
+      "parent_id": "5f71ff36-0749-4d9c-bedc-731a5844f7dc",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:49.592+00:00",
+      "updated_at": "2026-04-29T14:30:49.592+00:00"
+    },
+    {
+      "id": "dcef9b20-69aa-41e5-bed7-4a5e693171ab",
+      "title": "Launchpad & Configuração",
+      "type": "area",
+      "content": "",
+      "description": "Configuração do SAP Fiori Launchpad",
+      "tags": [
+        "Fiori",
+        "Launchpad",
+        "Configuração"
+      ],
+      "parent_id": "34b3d182-adda-48ef-b972-3e78d4920878",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:49.742+00:00",
+      "updated_at": "2026-04-29T14:30:49.742+00:00"
+    },
+    {
+      "id": "b62d3134-f20d-49c5-829f-6dfa1f01743c",
+      "title": "Tiles & Target Mappings",
+      "type": "fiori",
+      "content": "",
+      "description": "Criar tiles, semantic objects, intent-based navigation",
+      "tags": [
+        "Fiori",
+        "Tile",
+        "Launchpad"
+      ],
+      "parent_id": "dcef9b20-69aa-41e5-bed7-4a5e693171ab",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:49.89+00:00",
+      "updated_at": "2026-04-29T14:30:49.89+00:00"
+    },
+    {
+      "id": "6eeeecc0-14e2-44e9-bb77-f82b495b204d",
+      "title": "Grupos & Catálogos (PFCG)",
+      "type": "fiori",
+      "content": "",
+      "description": "Associar roles a grupos e catálogos, atribuição a usuários",
+      "tags": [
+        "Fiori",
+        "PFCG",
+        "Launchpad"
+      ],
+      "parent_id": "dcef9b20-69aa-41e5-bed7-4a5e693171ab",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:50.037+00:00",
+      "updated_at": "2026-04-29T14:30:50.037+00:00"
+    },
+    {
+      "id": "0de8e22d-09ec-4832-b4e1-63ccf3501fc8",
+      "title": "UI Adaptation Editor (Key User)",
+      "type": "fiori",
+      "content": "",
+      "description": "SAPUI5 flexibility, esconder campos, criar variantes, key user tools",
+      "tags": [
+        "Fiori",
+        "KeyUser",
+        "Flexibility"
+      ],
+      "parent_id": "dcef9b20-69aa-41e5-bed7-4a5e693171ab",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:50.187+00:00",
+      "updated_at": "2026-04-29T14:30:50.187+00:00"
+    },
+    {
+      "id": "e8b00c7e-be0e-44ff-a467-f14ee78382ff",
+      "title": "BTP (Business Technology Platform)",
+      "type": "pasta",
+      "content": "",
+      "description": "Plataforma de cloud SAP para extensões e integrações",
+      "tags": [
+        "BTP",
+        "Cloud"
+      ],
+      "parent_id": null,
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:50.337+00:00",
+      "updated_at": "2026-04-29T14:30:50.337+00:00"
+    },
+    {
+      "id": "55457f28-cda6-4b00-b6c2-0c88f3f94f97",
+      "title": "Cloud Foundry",
+      "type": "area",
+      "content": "",
+      "description": "Runtime Cloud Foundry no BTP",
+      "tags": [
+        "BTP",
+        "CF",
+        "Cloud"
+      ],
+      "parent_id": "e8b00c7e-be0e-44ff-a467-f14ee78382ff",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:50.488+00:00",
+      "updated_at": "2026-04-29T14:30:50.488+00:00"
+    },
+    {
+      "id": "da14fe8a-fa91-4e7f-bc50-c7b7653f5f97",
+      "title": "Subaccounts & Spaces",
+      "type": "btp",
+      "content": "",
+      "description": "Estrutura de contas BTP: global account → subaccount → space",
+      "tags": [
+        "BTP",
+        "CF"
+      ],
+      "parent_id": "55457f28-cda6-4b00-b6c2-0c88f3f94f97",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:50.637+00:00",
+      "updated_at": "2026-04-29T14:30:50.637+00:00"
+    },
+    {
+      "id": "db02774d-7db5-427d-a433-7515c118d6b1",
+      "title": "Buildpacks & Deploy",
+      "type": "btp",
+      "content": "",
+      "description": "cf push, manifest.yml, memory/disk quota, health checks",
+      "tags": [
+        "BTP",
+        "CF",
+        "Deploy"
+      ],
+      "parent_id": "55457f28-cda6-4b00-b6c2-0c88f3f94f97",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:50.789+00:00",
+      "updated_at": "2026-04-29T14:30:50.789+00:00"
+    },
+    {
+      "id": "e9c41ccc-d351-41e1-978e-a4e7ca78220f",
+      "title": "Serviços CF (Service Marketplace)",
+      "type": "btp",
+      "content": "",
+      "description": "cf create-service, bind-service, VCAP_SERVICES, service keys",
+      "tags": [
+        "BTP",
+        "CF",
+        "Services"
+      ],
+      "parent_id": "55457f28-cda6-4b00-b6c2-0c88f3f94f97",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:50.942+00:00",
+      "updated_at": "2026-04-29T14:30:50.942+00:00"
+    },
+    {
+      "id": "2a0aee57-9b04-4550-8a90-e220ddf7490b",
+      "title": "Destination Service",
+      "type": "btp",
+      "content": "",
+      "description": "Configuração de destinations, ProxyType OnPremise/Internet, Principal Propagation",
+      "tags": [
+        "BTP",
+        "Destination",
+        "Connectivity"
+      ],
+      "parent_id": "55457f28-cda6-4b00-b6c2-0c88f3f94f97",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:51.094+00:00",
+      "updated_at": "2026-04-29T14:30:51.094+00:00"
+    },
+    {
+      "id": "abc869d6-89d1-4bec-b0d7-3aa8efcc6e37",
+      "title": "Connectivity & Cloud Connector",
+      "type": "btp",
+      "content": "",
+      "description": "SAP Cloud Connector, SCC, acesso a sistemas on-premise",
+      "tags": [
+        "BTP",
+        "SCC",
+        "Connectivity"
+      ],
+      "parent_id": "55457f28-cda6-4b00-b6c2-0c88f3f94f97",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:51.251+00:00",
+      "updated_at": "2026-04-29T14:30:51.251+00:00"
+    },
+    {
+      "id": "836a92cb-2384-4a71-88e4-4fe4e680c507",
+      "title": "SAP HANA Cloud",
+      "type": "area",
+      "content": "",
+      "description": "Banco de dados HANA como serviço no BTP",
+      "tags": [
+        "BTP",
+        "HANA",
+        "Database"
+      ],
+      "parent_id": "e8b00c7e-be0e-44ff-a467-f14ee78382ff",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:51.408+00:00",
+      "updated_at": "2026-04-29T14:30:51.408+00:00"
+    },
+    {
+      "id": "8dbeafea-713b-4852-9700-57266675e425",
+      "title": "HDI Containers & CAP",
+      "type": "btp",
+      "content": "",
+      "description": "SAP CAP (Node.js/Java), CDS, HDI deployment, schema versioning",
+      "tags": [
+        "BTP",
+        "HANA",
+        "CAP",
+        "HDI"
+      ],
+      "parent_id": "836a92cb-2384-4a71-88e4-4fe4e680c507",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:51.565+00:00",
+      "updated_at": "2026-04-29T14:30:51.565+00:00"
+    },
+    {
+      "id": "dd4249e5-fcd6-4e95-8880-5035154d9b21",
+      "title": "Calculation Views",
+      "type": "btp",
+      "content": "",
+      "description": "Graphical calculation views, joins, unions, aggregation nodes",
+      "tags": [
+        "HANA",
+        "CalcViews",
+        "Analytics"
+      ],
+      "parent_id": "836a92cb-2384-4a71-88e4-4fe4e680c507",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:51.715+00:00",
+      "updated_at": "2026-04-29T14:30:51.715+00:00"
+    },
+    {
+      "id": "f58c8f88-c55a-4460-a62d-c4de948b612a",
+      "title": "SQL Script & AMDP",
+      "type": "btp",
+      "content": "",
+      "description": "SQLScript procedures, AMDP no ABAP, CE functions, error handling",
+      "tags": [
+        "HANA",
+        "SQLScript",
+        "AMDP"
+      ],
+      "parent_id": "836a92cb-2384-4a71-88e4-4fe4e680c507",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:51.868+00:00",
+      "updated_at": "2026-04-29T14:30:51.868+00:00"
+    },
+    {
+      "id": "8a36bbf6-ecb5-4a0b-b298-68a13c8b9b63",
+      "title": "SAP Build",
+      "type": "area",
+      "content": "",
+      "description": "Suite de ferramentas low-code SAP Build",
+      "tags": [
+        "BTP",
+        "Build",
+        "LowCode"
+      ],
+      "parent_id": "e8b00c7e-be0e-44ff-a467-f14ee78382ff",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:52.022+00:00",
+      "updated_at": "2026-04-29T14:30:52.022+00:00"
+    },
+    {
+      "id": "478ebeec-c7b5-4dd3-90f3-7f97abe447db",
+      "title": "Build Apps (AppGyver)",
+      "type": "btp",
+      "content": "",
+      "description": "Criação de apps mobile/web sem código, data resources, logic flows",
+      "tags": [
+        "Build",
+        "AppGyver",
+        "LowCode"
+      ],
+      "parent_id": "8a36bbf6-ecb5-4a0b-b298-68a13c8b9b63",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:52.172+00:00",
+      "updated_at": "2026-04-29T14:30:52.172+00:00"
+    },
+    {
+      "id": "8c40667c-6e0c-4a8a-8ec0-0391c53ba4d5",
+      "title": "Build Process Automation (SPA)",
+      "type": "btp",
+      "content": "",
+      "description": "RPA bots, workflows, BPMN, forms, automation projects",
+      "tags": [
+        "Build",
+        "SPA",
+        "RPA",
+        "Workflow"
+      ],
+      "parent_id": "8a36bbf6-ecb5-4a0b-b298-68a13c8b9b63",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:52.321+00:00",
+      "updated_at": "2026-04-29T14:30:52.321+00:00"
+    },
+    {
+      "id": "4f6c5511-cda4-4d5c-9854-a8ea5bc71728",
+      "title": "Build Work Zone",
+      "type": "btp",
+      "content": "",
+      "description": "Portal de colaboração, Business Sites, integração com Fiori",
+      "tags": [
+        "Build",
+        "WorkZone",
+        "Portal"
+      ],
+      "parent_id": "8a36bbf6-ecb5-4a0b-b298-68a13c8b9b63",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:52.471+00:00",
+      "updated_at": "2026-04-29T14:30:52.471+00:00"
+    },
+    {
+      "id": "aa89eb1e-68e5-4aab-a93f-5bb9c6729608",
+      "title": "SAP Build Code (ABAP & CAP)",
+      "type": "btp",
+      "content": "",
+      "description": "Joule AI coding, RAP geração assistida, CAP + SAP Build Code",
+      "tags": [
+        "Build",
+        "AI",
+        "RAP",
+        "CAP"
+      ],
+      "parent_id": "8a36bbf6-ecb5-4a0b-b298-68a13c8b9b63",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:52.622+00:00",
+      "updated_at": "2026-04-29T14:30:52.622+00:00"
+    },
+    {
+      "id": "5e0f351c-8903-4c34-8ef8-522b16db6f8c",
+      "title": "Side-by-Side Extensions",
+      "type": "area",
+      "content": "",
+      "description": "Extensões SAP sem modificações no core",
+      "tags": [
+        "BTP",
+        "Extension",
+        "S4HANA"
+      ],
+      "parent_id": "e8b00c7e-be0e-44ff-a467-f14ee78382ff",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:52.77+00:00",
+      "updated_at": "2026-04-29T14:30:52.77+00:00"
+    },
+    {
+      "id": "91b71e1d-9256-4a2d-b5d2-231d813b6ad0",
+      "title": "SAP Extensibility Concept",
+      "type": "btp",
+      "content": "",
+      "description": "In-app vs side-by-side, clean core, extensibility explorer",
+      "tags": [
+        "BTP",
+        "Extension",
+        "CleanCore"
+      ],
+      "parent_id": "5e0f351c-8903-4c34-8ef8-522b16db6f8c",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:52.922+00:00",
+      "updated_at": "2026-04-29T14:30:52.922+00:00"
+    },
+    {
+      "id": "2d24c77b-d64e-480a-b667-9b3dbb5f41e0",
+      "title": "Event Mesh (SAP Event Broker)",
+      "type": "btp",
+      "content": "",
+      "description": "Publish/Subscribe, Business Events, Eventing em S/4HANA",
+      "tags": [
+        "BTP",
+        "EventMesh",
+        "Events"
+      ],
+      "parent_id": "5e0f351c-8903-4c34-8ef8-522b16db6f8c",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:53.072+00:00",
+      "updated_at": "2026-04-29T14:30:53.072+00:00"
+    },
+    {
+      "id": "b372ef6e-4f9f-432f-a196-b4c3b451751f",
+      "title": "CPI (Cloud Integration)",
+      "type": "pasta",
+      "content": "",
+      "description": "SAP Integration Suite – Cloud Platform Integration",
+      "tags": [
+        "CPI",
+        "CIG",
+        "Integration"
+      ],
+      "parent_id": null,
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:53.221+00:00",
+      "updated_at": "2026-04-29T14:30:53.221+00:00"
+    },
+    {
+      "id": "12827528-f7af-484a-9997-55414b762e67",
+      "title": "iFlows",
+      "type": "area",
+      "content": "",
+      "description": "Fluxos de integração no CPI",
+      "tags": [
+        "CPI",
+        "iFlow"
+      ],
+      "parent_id": "b372ef6e-4f9f-432f-a196-b4c3b451751f",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:53.374+00:00",
+      "updated_at": "2026-04-29T14:30:53.374+00:00"
+    },
+    {
+      "id": "8418ac7f-566b-4a6c-abe4-79ae8225b3ac",
+      "title": "Estrutura de um iFlow",
+      "type": "cpi",
+      "content": "",
+      "description": "Sender → Channel → Process → Receiver, message pipeline, CPILOT",
+      "tags": [
+        "CPI",
+        "iFlow"
+      ],
+      "parent_id": "12827528-f7af-484a-9997-55414b762e67",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:53.522+00:00",
+      "updated_at": "2026-04-29T14:30:53.522+00:00"
+    },
+    {
+      "id": "2102e1d1-af3e-4b52-aa7d-65bcb91c87bb",
+      "title": "Message Structure (Header / Body / Attachment)",
+      "type": "cpi",
+      "content": "",
+      "description": "CamelHttpUri, SAP_ApplicationID, body como InputStream",
+      "tags": [
+        "CPI",
+        "Message"
+      ],
+      "parent_id": "12827528-f7af-484a-9997-55414b762e67",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:53.672+00:00",
+      "updated_at": "2026-04-29T14:30:53.672+00:00"
+    },
+    {
+      "id": "257f7881-a856-4c17-9a30-1ce71c4aaedd",
+      "title": "Padrões de Integração (EIP)",
+      "type": "cpi",
+      "content": "",
+      "description": "Content-Based Router, Splitter, Aggregator, Message Filter, Enricher",
+      "tags": [
+        "CPI",
+        "EIP",
+        "Pattern"
+      ],
+      "parent_id": "12827528-f7af-484a-9997-55414b762e67",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:53.821+00:00",
+      "updated_at": "2026-04-29T14:30:53.821+00:00"
+    },
+    {
+      "id": "eac674c7-1561-428c-8e3e-79f5d88eb954",
+      "title": "Error Handling & Dead Letter",
+      "type": "cpi",
+      "content": "",
+      "description": "Exception subprocess, escalation, retry, send step on error",
+      "tags": [
+        "CPI",
+        "ErrorHandling"
+      ],
+      "parent_id": "12827528-f7af-484a-9997-55414b762e67",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:53.969+00:00",
+      "updated_at": "2026-04-29T14:30:53.969+00:00"
+    },
+    {
+      "id": "31d35de4-6fc8-4643-9f4e-0f9f996bec85",
+      "title": "Externalizing Parameters",
+      "type": "cpi",
+      "content": "",
+      "description": "Configure-only, externalized parameters, Partner Directory",
+      "tags": [
+        "CPI",
+        "Parameters"
+      ],
+      "parent_id": "12827528-f7af-484a-9997-55414b762e67",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:54.122+00:00",
+      "updated_at": "2026-04-29T14:30:54.122+00:00"
+    },
+    {
+      "id": "e55ac56d-a416-4c37-a607-42daea0946b0",
+      "title": "Adapters & Channels",
+      "type": "area",
+      "content": "",
+      "description": "Conectores de entrada e saída no CPI",
+      "tags": [
+        "CPI",
+        "Adapter"
+      ],
+      "parent_id": "b372ef6e-4f9f-432f-a196-b4c3b451751f",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:54.274+00:00",
+      "updated_at": "2026-04-29T14:30:54.274+00:00"
+    },
+    {
+      "id": "40c2e1ec-29fe-4496-a9c0-4a27815c5c0a",
+      "title": "HTTP & SOAP Adapter",
+      "type": "cpi",
+      "content": "",
+      "description": "HTTP sender/receiver, SOAP sender/receiver, WS-Security, MTOM",
+      "tags": [
+        "CPI",
+        "Adapter",
+        "HTTP",
+        "SOAP"
+      ],
+      "parent_id": "e55ac56d-a416-4c37-a607-42daea0946b0",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:54.424+00:00",
+      "updated_at": "2026-04-29T14:30:54.424+00:00"
+    },
+    {
+      "id": "0b444ad0-5fe2-427b-95e3-240b94a2db35",
+      "title": "SFTP & FTP Adapter",
+      "type": "cpi",
+      "content": "",
+      "description": "Polling SFTP, push de arquivos, expressões de nome de arquivo, PGP",
+      "tags": [
+        "CPI",
+        "Adapter",
+        "SFTP",
+        "FTP"
+      ],
+      "parent_id": "e55ac56d-a416-4c37-a607-42daea0946b0",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:54.573+00:00",
+      "updated_at": "2026-04-29T14:30:54.573+00:00"
+    },
+    {
+      "id": "a37aa5ad-194e-4703-a0f4-a9fd8babfd64",
+      "title": "IDoc & RFC Adapter",
+      "type": "cpi",
+      "content": "",
+      "description": "IDoc sender/receiver, RFC receiver, JCo, middleware SAP",
+      "tags": [
+        "CPI",
+        "Adapter",
+        "IDoc",
+        "RFC"
+      ],
+      "parent_id": "e55ac56d-a416-4c37-a607-42daea0946b0",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:54.722+00:00",
+      "updated_at": "2026-04-29T14:30:54.722+00:00"
+    },
+    {
+      "id": "76ee2c69-ac76-4cd5-b0d0-5ad68b14ecc9",
+      "title": "OData & REST Adapter",
+      "type": "cpi",
+      "content": "",
+      "description": "OData receiver com CRUD, REST adapter, JSON/XML handling",
+      "tags": [
+        "CPI",
+        "Adapter",
+        "OData",
+        "REST"
+      ],
+      "parent_id": "e55ac56d-a416-4c37-a607-42daea0946b0",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:54.871+00:00",
+      "updated_at": "2026-04-29T14:30:54.871+00:00"
+    },
+    {
+      "id": "97b0dbcb-e9b1-4a14-9d6f-8494136c9ed4",
+      "title": "AMQP & Kafka Adapter",
+      "type": "cpi",
+      "content": "",
+      "description": "Mensageria assíncrona, Event Mesh integration, topics",
+      "tags": [
+        "CPI",
+        "Adapter",
+        "AMQP",
+        "Kafka"
+      ],
+      "parent_id": "e55ac56d-a416-4c37-a607-42daea0946b0",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:55.019+00:00",
+      "updated_at": "2026-04-29T14:30:55.019+00:00"
+    },
+    {
+      "id": "2ed1d052-0c9e-48fe-9f48-d8c3f4037463",
+      "title": "Mail Adapter",
+      "type": "cpi",
+      "content": "",
+      "description": "Envio de emails via SMTP, attachments, templates HTML",
+      "tags": [
+        "CPI",
+        "Adapter",
+        "Mail"
+      ],
+      "parent_id": "e55ac56d-a416-4c37-a607-42daea0946b0",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:55.174+00:00",
+      "updated_at": "2026-04-29T14:30:55.174+00:00"
+    },
+    {
+      "id": "f027fdd7-ed81-40fc-8a2a-c80e05250690",
+      "title": "Groovy Scripts",
+      "type": "area",
+      "content": "",
+      "description": "Scripting Groovy para processamento de mensagens",
+      "tags": [
+        "CPI",
+        "Groovy",
+        "Script"
+      ],
+      "parent_id": "b372ef6e-4f9f-432f-a196-b4c3b451751f",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:55.324+00:00",
+      "updated_at": "2026-04-29T14:30:55.324+00:00"
+    },
+    {
+      "id": "26640b08-6ecf-4416-b472-a29c5d7f2cb0",
+      "title": "Message API (Message / MessageHeader)",
+      "type": "cpi",
+      "content": "",
+      "description": "def Message processData(Message msg) – API do CPI",
+      "tags": [
+        "CPI",
+        "Groovy",
+        "MessageAPI"
+      ],
+      "parent_id": "f027fdd7-ed81-40fc-8a2a-c80e05250690",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:55.474+00:00",
+      "updated_at": "2026-04-29T14:30:55.474+00:00"
+    },
+    {
+      "id": "3f3b7aa6-d099-4308-a933-d85efb8c772a",
+      "title": "Manipulação de Headers & Properties",
+      "type": "cpi",
+      "content": "",
+      "description": "msg.getHeaders(), setHeader(), getProperty(), setProperty()",
+      "tags": [
+        "CPI",
+        "Groovy",
+        "Headers"
+      ],
+      "parent_id": "f027fdd7-ed81-40fc-8a2a-c80e05250690",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:55.624+00:00",
+      "updated_at": "2026-04-29T14:30:55.624+00:00"
+    },
+    {
+      "id": "933c849e-dfa0-42a4-b7f5-120347cd66b2",
+      "title": "Parsing XML & JSON no Groovy",
+      "type": "cpi",
+      "content": "",
+      "description": "XmlSlurper, JsonSlurper, manipulação de payload, conversão",
+      "tags": [
+        "CPI",
+        "Groovy",
+        "XML",
+        "JSON"
+      ],
+      "parent_id": "f027fdd7-ed81-40fc-8a2a-c80e05250690",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:55.779+00:00",
+      "updated_at": "2026-04-29T14:30:55.779+00:00"
+    },
+    {
+      "id": "a4dd282f-bb40-4c8b-a4a3-0fd19ad79d98",
+      "title": "Logging & Trace no Script",
+      "type": "cpi",
+      "content": "",
+      "description": "def logger = messageLogFactory.getMessageLog(message), addAttachmentAsString()",
+      "tags": [
+        "CPI",
+        "Groovy",
+        "Log"
+      ],
+      "parent_id": "f027fdd7-ed81-40fc-8a2a-c80e05250690",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:55.94+00:00",
+      "updated_at": "2026-04-29T14:30:55.94+00:00"
+    },
+    {
+      "id": "f0d41f90-7c70-40ab-b79c-29534efe7cb8",
+      "title": "Message Mapping",
+      "type": "area",
+      "content": "",
+      "description": "Transformação e mapeamento de mensagens",
+      "tags": [
+        "CPI",
+        "Mapping"
+      ],
+      "parent_id": "b372ef6e-4f9f-432f-a196-b4c3b451751f",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:56.089+00:00",
+      "updated_at": "2026-04-29T14:30:56.089+00:00"
+    },
+    {
+      "id": "432ec176-b063-4d75-b6f7-274b815f769d",
+      "title": "Graphical Message Mapping",
+      "type": "cpi",
+      "content": "",
+      "description": "Mapeamento drag-and-drop, funções standard, user-defined functions",
+      "tags": [
+        "CPI",
+        "Mapping",
+        "Graphical"
+      ],
+      "parent_id": "f0d41f90-7c70-40ab-b79c-29534efe7cb8",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:56.239+00:00",
+      "updated_at": "2026-04-29T14:30:56.239+00:00"
+    },
+    {
+      "id": "c9ca7790-e641-4273-a1df-65b49a87f8bf",
+      "title": "XSLT Mapping",
+      "type": "cpi",
+      "content": "",
+      "description": "Transformações XSL, XSLT 2.0, templates, variáveis, extensões SAP",
+      "tags": [
+        "CPI",
+        "Mapping",
+        "XSLT"
+      ],
+      "parent_id": "f0d41f90-7c70-40ab-b79c-29534efe7cb8",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:56.391+00:00",
+      "updated_at": "2026-04-29T14:30:56.391+00:00"
+    },
+    {
+      "id": "0a34af37-2b11-4551-b33d-75fe1a14bc3c",
+      "title": "JSON-to-JSON & JSON-to-XML",
+      "type": "cpi",
+      "content": "",
+      "description": "Json Converter, XML-JSON conversão, estrutura payload",
+      "tags": [
+        "CPI",
+        "Mapping",
+        "JSON"
+      ],
+      "parent_id": "f0d41f90-7c70-40ab-b79c-29534efe7cb8",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:56.54+00:00",
+      "updated_at": "2026-04-29T14:30:56.54+00:00"
+    },
+    {
+      "id": "7847f2b7-bbb1-41ba-b477-ba1841ebb94c",
+      "title": "API Management",
+      "type": "area",
+      "content": "",
+      "description": "Gestão de APIs no SAP Integration Suite",
+      "tags": [
+        "CPI",
+        "API",
+        "APIManagement"
+      ],
+      "parent_id": "b372ef6e-4f9f-432f-a196-b4c3b451751f",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:56.69+00:00",
+      "updated_at": "2026-04-29T14:30:56.69+00:00"
+    },
+    {
+      "id": "5db8db31-d4e2-4a4c-9a3e-5b47fa316242",
+      "title": "API Proxies & Products",
+      "type": "cpi",
+      "content": "",
+      "description": "Criação de proxy, API products, developer portal, subscriptions",
+      "tags": [
+        "API",
+        "APIProxy"
+      ],
+      "parent_id": "7847f2b7-bbb1-41ba-b477-ba1841ebb94c",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:56.842+00:00",
+      "updated_at": "2026-04-29T14:30:56.842+00:00"
+    },
+    {
+      "id": "ec81bf3e-2407-49d2-ac27-63b304d63edd",
+      "title": "Policies (Quota, Spike Arrest, OAuth)",
+      "type": "cpi",
+      "content": "",
+      "description": "Rate limiting, spike arrest, OAuth 2.0, JWT verify, cache",
+      "tags": [
+        "API",
+        "Policy",
+        "Security"
+      ],
+      "parent_id": "7847f2b7-bbb1-41ba-b477-ba1841ebb94c",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:56.992+00:00",
+      "updated_at": "2026-04-29T14:30:56.992+00:00"
+    },
+    {
+      "id": "cbf40485-9b62-4417-bfcf-60922040ed65",
+      "title": "Monitoramento & Analytics de API",
+      "type": "cpi",
+      "content": "",
+      "description": "Dashboard de uso, error analysis, latency, traffic reports",
+      "tags": [
+        "API",
+        "Monitor"
+      ],
+      "parent_id": "7847f2b7-bbb1-41ba-b477-ba1841ebb94c",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:57.152+00:00",
+      "updated_at": "2026-04-29T14:30:57.152+00:00"
+    },
+    {
+      "id": "7c003590-b585-4321-ad25-17deadc6033c",
+      "title": "Monitoramento CPI",
+      "type": "area",
+      "content": "",
+      "description": "Monitoramento e operação de integrações",
+      "tags": [
+        "CPI",
+        "Monitor",
+        "Ops"
+      ],
+      "parent_id": "b372ef6e-4f9f-432f-a196-b4c3b451751f",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:57.303+00:00",
+      "updated_at": "2026-04-29T14:30:57.303+00:00"
+    },
+    {
+      "id": "a74ea5e2-8f3f-46a4-baf8-fee6842417d0",
+      "title": "Message Monitor",
+      "type": "cpi",
+      "content": "",
+      "description": "MPL (Message Processing Log), status COMPLETED/FAILED/RETRY, payload logs",
+      "tags": [
+        "CPI",
+        "Monitor",
+        "MPL"
+      ],
+      "parent_id": "7c003590-b585-4321-ad25-17deadc6033c",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:57.454+00:00",
+      "updated_at": "2026-04-29T14:30:57.454+00:00"
+    },
+    {
+      "id": "16f623a0-479d-4a3c-a885-9806d7e1649d",
+      "title": "Alertas & Notificações",
+      "type": "cpi",
+      "content": "",
+      "description": "Alert rules, email notification, OpsAlert categories, SAP Cloud ALM",
+      "tags": [
+        "CPI",
+        "Alert",
+        "ALM"
+      ],
+      "parent_id": "7c003590-b585-4321-ad25-17deadc6033c",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:57.604+00:00",
+      "updated_at": "2026-04-29T14:30:57.604+00:00"
+    },
+    {
+      "id": "a2f31e27-aba2-43c2-b12b-106ee4aec271",
+      "title": "Pacotes & Versioning",
+      "type": "cpi",
+      "content": "",
+      "description": "Integration packages, transport, versão draft/active, migration",
+      "tags": [
+        "CPI",
+        "Package",
+        "Version"
+      ],
+      "parent_id": "7c003590-b585-4321-ad25-17deadc6033c",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:57.752+00:00",
+      "updated_at": "2026-04-29T14:30:57.752+00:00"
+    },
+    {
+      "id": "29c7acf2-9ba9-41e2-b44b-da361bbc8e53",
+      "title": "Integrações",
+      "type": "pasta",
+      "content": "",
+      "description": "Padrões e tecnologias de integração SAP",
+      "tags": [
+        "Integração",
+        "SAP",
+        "Interface"
+      ],
+      "parent_id": null,
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:57.902+00:00",
+      "updated_at": "2026-04-29T14:30:57.902+00:00"
+    },
+    {
+      "id": "f14f7f9a-26f3-4258-a573-cfdb76c8cf7d",
+      "title": "IDocs",
+      "type": "area",
+      "content": "",
+      "description": "Intermediate Documents – troca de dados SAP",
+      "tags": [
+        "IDoc",
+        "ALE",
+        "EDI"
+      ],
+      "parent_id": "29c7acf2-9ba9-41e2-b44b-da361bbc8e53",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:58.073+00:00",
+      "updated_at": "2026-04-29T14:30:58.073+00:00"
+    },
+    {
+      "id": "be082bd6-50a1-4490-80fe-16bfa511a40a",
+      "title": "Estrutura de IDoc (Segmentos)",
+      "type": "integracao",
+      "content": "",
+      "description": "Control Record (EDI_DC40), Data Record (EDI_DD40), Status Record",
+      "tags": [
+        "IDoc",
+        "Estrutura"
+      ],
+      "parent_id": "f14f7f9a-26f3-4258-a573-cfdb76c8cf7d",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:58.223+00:00",
+      "updated_at": "2026-04-29T14:30:58.223+00:00"
+    },
+    {
+      "id": "bff5f5a1-9be6-45cc-a1c5-5d2b73dfea85",
+      "title": "Message Types & Basic Types",
+      "type": "integracao",
+      "content": "",
+      "description": "Message type (ORDERS), Basic type (ORDERS05), Extension Types",
+      "tags": [
+        "IDoc",
+        "MessageType"
+      ],
+      "parent_id": "f14f7f9a-26f3-4258-a573-cfdb76c8cf7d",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:58.371+00:00",
+      "updated_at": "2026-04-29T14:30:58.371+00:00"
+    },
+    {
+      "id": "3a4dd542-ffb7-40ef-b21b-e2b61166948f",
+      "title": "Partner Profiles (WE20)",
+      "type": "transacao",
+      "content": "",
+      "description": "Configuração de parceiros, port de saída, inbound/outbound parameters",
+      "tags": [
+        "IDoc",
+        "WE20",
+        "Config"
+      ],
+      "parent_id": "f14f7f9a-26f3-4258-a573-cfdb76c8cf7d",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:58.521+00:00",
+      "updated_at": "2026-04-29T14:30:58.521+00:00"
+    },
+    {
+      "id": "3bdc12f6-ab0e-4933-9349-c5f3b74a40d2",
+      "title": "ALE – Application Link Enabling",
+      "type": "integracao",
+      "content": "",
+      "description": "BAPI IDOCs, modelo de distribuição (BD64), RFC destinations",
+      "tags": [
+        "IDoc",
+        "ALE",
+        "BD64"
+      ],
+      "parent_id": "f14f7f9a-26f3-4258-a573-cfdb76c8cf7d",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:58.683+00:00",
+      "updated_at": "2026-04-29T14:30:58.683+00:00"
+    },
+    {
+      "id": "1b693559-9750-4757-8a41-aa84cfb2cbf2",
+      "title": "EDI – Troca de dados externa",
+      "type": "integracao",
+      "content": "",
+      "description": "IDocs com parceiros externos via conversor EDI, EDIFACT/X12",
+      "tags": [
+        "IDoc",
+        "EDI"
+      ],
+      "parent_id": "f14f7f9a-26f3-4258-a573-cfdb76c8cf7d",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:58.834+00:00",
+      "updated_at": "2026-04-29T14:30:58.834+00:00"
+    },
+    {
+      "id": "44eb73e4-54f9-43b1-bd52-529f9bbef263",
+      "title": "Reprocessamento & Status (BD87)",
+      "type": "transacao",
+      "content": "",
+      "description": "Status codes IDoc, reprocessamento, WE02/WE05/BD87",
+      "tags": [
+        "IDoc",
+        "BD87",
+        "Monitor"
+      ],
+      "parent_id": "f14f7f9a-26f3-4258-a573-cfdb76c8cf7d",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:58.984+00:00",
+      "updated_at": "2026-04-29T14:30:58.984+00:00"
+    },
+    {
+      "id": "53b69dff-0705-48ad-9465-c2f60fe53d48",
+      "title": "Web Services & SOAP",
+      "type": "area",
+      "content": "",
+      "description": "Integração via protocolos SOAP e Web Services",
+      "tags": [
+        "SOAP",
+        "WebService",
+        "WSDL"
+      ],
+      "parent_id": "29c7acf2-9ba9-41e2-b44b-da361bbc8e53",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:59.135+00:00",
+      "updated_at": "2026-04-29T14:30:59.135+00:00"
+    },
+    {
+      "id": "3a4a6910-b036-41f0-b19c-35bf8c84eba4",
+      "title": "WSDL & Proxy Generation",
+      "type": "integracao",
+      "content": "",
+      "description": "SOAMANAGER, geração de proxy ABAP a partir de WSDL (SE80)",
+      "tags": [
+        "SOAP",
+        "WSDL",
+        "Proxy"
+      ],
+      "parent_id": "53b69dff-0705-48ad-9465-c2f60fe53d48",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:59.284+00:00",
+      "updated_at": "2026-04-29T14:30:59.284+00:00"
+    },
+    {
+      "id": "0e211e61-7cff-460c-9ce6-2f3f50cecf9b",
+      "title": "Publicando Web Services no SAP",
+      "type": "integracao",
+      "content": "",
+      "description": "Criar enterprise service, ativação em SOAMANAGER, WSADMIN",
+      "tags": [
+        "SOAP",
+        "WebService",
+        "SOAMANAGER"
+      ],
+      "parent_id": "53b69dff-0705-48ad-9465-c2f60fe53d48",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:59.435+00:00",
+      "updated_at": "2026-04-29T14:30:59.435+00:00"
+    },
+    {
+      "id": "3054fe8a-e123-40e7-a10d-777649c42b05",
+      "title": "WS-Security (SSL/OAuth)",
+      "type": "integracao",
+      "content": "",
+      "description": "Certificados SSL, binding de segurança, user token, X.509",
+      "tags": [
+        "SOAP",
+        "Security",
+        "SSL"
+      ],
+      "parent_id": "53b69dff-0705-48ad-9465-c2f60fe53d48",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:59.586+00:00",
+      "updated_at": "2026-04-29T14:30:59.586+00:00"
+    },
+    {
+      "id": "5f7b54a5-e2e9-4744-851b-3d4b551aa2a9",
+      "title": "REST APIs",
+      "type": "area",
+      "content": "",
+      "description": "Consumo e exposição de APIs REST no SAP",
+      "tags": [
+        "REST",
+        "API",
+        "JSON"
+      ],
+      "parent_id": "29c7acf2-9ba9-41e2-b44b-da361bbc8e53",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:59.741+00:00",
+      "updated_at": "2026-04-29T14:30:59.741+00:00"
+    },
+    {
+      "id": "960d9040-681b-42d1-94eb-db0bdfd42264",
+      "title": "SAP API Business Hub",
+      "type": "integracao",
+      "content": "",
+      "description": "Descoberta de APIs SAP, sandbox, pacotes de API, Business Accelerator Hub",
+      "tags": [
+        "REST",
+        "API",
+        "Hub"
+      ],
+      "parent_id": "5f7b54a5-e2e9-4744-851b-3d4b551aa2a9",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:30:59.892+00:00",
+      "updated_at": "2026-04-29T14:30:59.892+00:00"
+    },
+    {
+      "id": "071a2db2-68a4-4730-a568-ff27594cd38b",
+      "title": "Consumo de REST via ABAP (cl_http_client)",
+      "type": "desenvolvimento",
+      "content": "",
+      "description": "cl_http_client=>create_by_destination, request/response, JSON parsing",
+      "tags": [
+        "REST",
+        "ABAP",
+        "HTTP"
+      ],
+      "parent_id": "5f7b54a5-e2e9-4744-851b-3d4b551aa2a9",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:31:00.043+00:00",
+      "updated_at": "2026-04-29T14:31:00.043+00:00"
+    },
+    {
+      "id": "85a17dfb-1144-443e-97fc-11f28f1fb688",
+      "title": "Criação de APIs REST (Gateway / RAP)",
+      "type": "desenvolvimento",
+      "content": "",
+      "description": "Exposição de APIs via SAP Gateway ou RAP OData V4",
+      "tags": [
+        "REST",
+        "API",
+        "Gateway",
+        "RAP"
+      ],
+      "parent_id": "5f7b54a5-e2e9-4744-851b-3d4b551aa2a9",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:31:00.199+00:00",
+      "updated_at": "2026-04-29T14:31:00.199+00:00"
+    },
+    {
+      "id": "57715228-52af-42cc-ba6e-ebcd3c9803a0",
+      "title": "Processos Funcionais",
+      "type": "pasta",
+      "content": "",
+      "description": "Processos de negócio SAP por módulo",
+      "tags": [
+        "Funcional",
+        "SAP",
+        "ECC",
+        "S4HANA"
+      ],
+      "parent_id": null,
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:31:00.349+00:00",
+      "updated_at": "2026-04-29T14:31:00.349+00:00"
+    },
+    {
+      "id": "358c88f3-fdaf-493a-a22f-3f0bc89bdb7f",
+      "title": "SD – Sales & Distribution",
+      "type": "modulo",
+      "content": "",
+      "description": "Vendas e distribuição SAP",
+      "tags": [
+        "SD",
+        "Funcional"
+      ],
+      "parent_id": "57715228-52af-42cc-ba6e-ebcd3c9803a0",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:31:00.498+00:00",
+      "updated_at": "2026-04-29T14:31:00.498+00:00"
+    },
+    {
+      "id": "2468d5fb-aad0-476c-af9d-bc3d15c9b461",
+      "title": "Ciclo Order-to-Cash",
+      "type": "processo",
+      "content": "",
+      "description": "Cotação → Pedido → Entrega → Faturamento → Recebimento",
+      "tags": [
+        "SD",
+        "OTC"
+      ],
+      "parent_id": "358c88f3-fdaf-493a-a22f-3f0bc89bdb7f",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:31:00.647+00:00",
+      "updated_at": "2026-04-29T14:31:00.647+00:00"
+    },
+    {
+      "id": "159ebeed-00c5-4e75-8ebe-3aafad0665ca",
+      "title": "Dados Mestre SD",
+      "type": "processo",
+      "content": "",
+      "description": "Cliente (KNA1), Material, Info de Vendas, Preços, Condições",
+      "tags": [
+        "SD",
+        "MasterData"
+      ],
+      "parent_id": "358c88f3-fdaf-493a-a22f-3f0bc89bdb7f",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:31:00.797+00:00",
+      "updated_at": "2026-04-29T14:31:00.797+00:00"
+    },
+    {
+      "id": "01d0afc4-0888-4179-b53e-eefd5e7f2739",
+      "title": "Precificação & Condições (VK11)",
+      "type": "processo",
+      "content": "",
+      "description": "Procedure de precificação, condition types, tabelas de condição",
+      "tags": [
+        "SD",
+        "Pricing",
+        "VK11"
+      ],
+      "parent_id": "358c88f3-fdaf-493a-a22f-3f0bc89bdb7f",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:31:00.947+00:00",
+      "updated_at": "2026-04-29T14:31:00.947+00:00"
+    },
+    {
+      "id": "84fc802b-d1be-406b-a9b6-7c2c250bdd3a",
+      "title": "Faturamento & NF-e (VF01)",
+      "type": "processo",
+      "content": "",
+      "description": "Tipos de fatura, billing docs, integração FI, nota fiscal Brasil",
+      "tags": [
+        "SD",
+        "Billing",
+        "VF01"
+      ],
+      "parent_id": "358c88f3-fdaf-493a-a22f-3f0bc89bdb7f",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:31:01.097+00:00",
+      "updated_at": "2026-04-29T14:31:01.097+00:00"
+    },
+    {
+      "id": "6aa20d84-598a-4b53-85ea-6c30bf1cbc24",
+      "title": "Crédito & Bloqueio de Cliente",
+      "type": "processo",
+      "content": "",
+      "description": "Limite de crédito, SD01, bloqueio de pedido, liberação VKM1",
+      "tags": [
+        "SD",
+        "Credit"
+      ],
+      "parent_id": "358c88f3-fdaf-493a-a22f-3f0bc89bdb7f",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:31:01.248+00:00",
+      "updated_at": "2026-04-29T14:31:01.249+00:00"
+    },
+    {
+      "id": "a7543363-dfed-4b41-bd73-36b53eed85dd",
+      "title": "MM – Materials Management",
+      "type": "modulo",
+      "content": "",
+      "description": "Gestão de materiais e compras",
+      "tags": [
+        "MM",
+        "Funcional"
+      ],
+      "parent_id": "57715228-52af-42cc-ba6e-ebcd3c9803a0",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:31:01.403+00:00",
+      "updated_at": "2026-04-29T14:31:01.403+00:00"
+    },
+    {
+      "id": "16f20799-4b9b-4b89-8d61-edf4c8b33273",
+      "title": "Ciclo Procure-to-Pay",
+      "type": "processo",
+      "content": "",
+      "description": "Requisição → Pedido de Compra → Recebimento → Fatura → Pagamento",
+      "tags": [
+        "MM",
+        "PTP"
+      ],
+      "parent_id": "a7543363-dfed-4b41-bd73-36b53eed85dd",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:31:01.556+00:00",
+      "updated_at": "2026-04-29T14:31:01.556+00:00"
+    },
+    {
+      "id": "64ec77c6-cfd2-40c8-88ac-a72f5a54c173",
+      "title": "Dados Mestre MM",
+      "type": "processo",
+      "content": "",
+      "description": "Material (MARA/MAKT), Fornecedor (LFA1), Inforegistro (EINA)",
+      "tags": [
+        "MM",
+        "MasterData"
+      ],
+      "parent_id": "a7543363-dfed-4b41-bd73-36b53eed85dd",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:31:01.707+00:00",
+      "updated_at": "2026-04-29T14:31:01.707+00:00"
+    },
+    {
+      "id": "3c403962-b11a-4c92-9428-e38790d31963",
+      "title": "MRP – Planejamento de Necessidades",
+      "type": "processo",
+      "content": "",
+      "description": "Tipos de MRP, MD01/MD02, livro MRP, parâmetros de planejamento",
+      "tags": [
+        "MM",
+        "MRP",
+        "MD01"
+      ],
+      "parent_id": "a7543363-dfed-4b41-bd73-36b53eed85dd",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:31:01.861+00:00",
+      "updated_at": "2026-04-29T14:31:01.861+00:00"
+    },
+    {
+      "id": "6e7c45cc-8977-4287-ba1f-e3a77a9c6fbd",
+      "title": "Movimentos de Estoque (MIGO)",
+      "type": "transacao",
+      "content": "",
+      "description": "101/102 GR, 201/202 GI, 311/312 Transfer, 551 Scrap – MIGO",
+      "tags": [
+        "MM",
+        "MIGO",
+        "Estoque"
+      ],
+      "parent_id": "a7543363-dfed-4b41-bd73-36b53eed85dd",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:31:02.01+00:00",
+      "updated_at": "2026-04-29T14:31:02.01+00:00"
+    },
+    {
+      "id": "7f89ab08-051e-406b-8696-74f8eddd74e4",
+      "title": "Avaliação de Estoque & Fechamento",
+      "type": "processo",
+      "content": "",
+      "description": "Standard price, MAP, desvios de preço, fechamento de período ML",
+      "tags": [
+        "MM",
+        "Valuation"
+      ],
+      "parent_id": "a7543363-dfed-4b41-bd73-36b53eed85dd",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:31:02.161+00:00",
+      "updated_at": "2026-04-29T14:31:02.161+00:00"
+    },
+    {
+      "id": "3a8833e1-c711-4b7e-8399-d812d8df00a3",
+      "title": "FI/CO – Finance & Controlling",
+      "type": "modulo",
+      "content": "",
+      "description": "Finanças e controladoria",
+      "tags": [
+        "FI",
+        "CO",
+        "Funcional"
+      ],
+      "parent_id": "57715228-52af-42cc-ba6e-ebcd3c9803a0",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:31:02.329+00:00",
+      "updated_at": "2026-04-29T14:31:02.329+00:00"
+    },
+    {
+      "id": "67cda03c-4a67-44d6-9114-e823280bae1a",
+      "title": "Contabilidade Financeira (FI)",
+      "type": "processo",
+      "content": "",
+      "description": "Plano de contas, lançamentos (FB01/F-02), partidas em aberto",
+      "tags": [
+        "FI",
+        "Accounting"
+      ],
+      "parent_id": "3a8833e1-c711-4b7e-8399-d812d8df00a3",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:31:02.478+00:00",
+      "updated_at": "2026-04-29T14:31:02.478+00:00"
+    },
+    {
+      "id": "f6cefda6-7a36-4c0c-a8d5-c4e3e64d20c5",
+      "title": "Contas a Pagar & Receber (AP/AR)",
+      "type": "processo",
+      "content": "",
+      "description": "Vendor/Customer invoices, compensação, extrato de conta",
+      "tags": [
+        "FI",
+        "AP",
+        "AR"
+      ],
+      "parent_id": "3a8833e1-c711-4b7e-8399-d812d8df00a3",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:31:02.628+00:00",
+      "updated_at": "2026-04-29T14:31:02.628+00:00"
+    },
+    {
+      "id": "bcb221d4-603e-443f-af1a-ce7bbc2613e3",
+      "title": "Centros de Custo & Ordens Internas",
+      "type": "processo",
+      "content": "",
+      "description": "KS01 CC, KO01 Ordem Interna, settlements, reports CO",
+      "tags": [
+        "CO",
+        "CostCenter",
+        "IO"
+      ],
+      "parent_id": "3a8833e1-c711-4b7e-8399-d812d8df00a3",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:31:02.777+00:00",
+      "updated_at": "2026-04-29T14:31:02.777+00:00"
+    },
+    {
+      "id": "8a36695d-2555-4193-b880-ea5501a20b93",
+      "title": "Resultados & PA (Profitability Analysis)",
+      "type": "processo",
+      "content": "",
+      "description": "CO-PA, características de resultado, valuação, reports",
+      "tags": [
+        "CO",
+        "COPA"
+      ],
+      "parent_id": "3a8833e1-c711-4b7e-8399-d812d8df00a3",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:31:02.929+00:00",
+      "updated_at": "2026-04-29T14:31:02.929+00:00"
+    },
+    {
+      "id": "33481d44-461a-47a3-bb8f-51d48a298313",
+      "title": "Fechamento Contábil (Período)",
+      "type": "processo",
+      "content": "",
+      "description": "Depreciação AA, reclassificações, accruals, balance carryforward",
+      "tags": [
+        "FI",
+        "Closing"
+      ],
+      "parent_id": "3a8833e1-c711-4b7e-8399-d812d8df00a3",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:31:03.086+00:00",
+      "updated_at": "2026-04-29T14:31:03.086+00:00"
+    },
+    {
+      "id": "3b97a6a4-a716-4de2-af2d-cfa42819e240",
+      "title": "PP – Production Planning",
+      "type": "modulo",
+      "content": "",
+      "description": "Planejamento e controle da produção",
+      "tags": [
+        "PP",
+        "Funcional"
+      ],
+      "parent_id": "57715228-52af-42cc-ba6e-ebcd3c9803a0",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:31:03.237+00:00",
+      "updated_at": "2026-04-29T14:31:03.237+00:00"
+    },
+    {
+      "id": "e11b82d0-3560-4a6f-baee-0b97bfedb846",
+      "title": "Ordens de Produção (CO01)",
+      "type": "processo",
+      "content": "",
+      "description": "Criação, liberação, confirmação, TECO – ciclo de produção",
+      "tags": [
+        "PP",
+        "Order",
+        "CO01"
+      ],
+      "parent_id": "3b97a6a4-a716-4de2-af2d-cfa42819e240",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:31:03.388+00:00",
+      "updated_at": "2026-04-29T14:31:03.388+00:00"
+    },
+    {
+      "id": "7f02c82e-a6d6-486e-94ef-8ad09435f364",
+      "title": "MPS & MRP PP",
+      "type": "processo",
+      "content": "",
+      "description": "Planejamento mestre de produção, capacidade, pegging",
+      "tags": [
+        "PP",
+        "MRP",
+        "MPS"
+      ],
+      "parent_id": "3b97a6a4-a716-4de2-af2d-cfa42819e240",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:31:03.54+00:00",
+      "updated_at": "2026-04-29T14:31:03.54+00:00"
+    },
+    {
+      "id": "0edbc393-8000-4b18-8924-bad9882dd568",
+      "title": "Listas Técnicas (CS01) & Roteiros (CA01)",
+      "type": "transacao",
+      "content": "",
+      "description": "BOM (CS01/CS11), Routing (CA01), centros de trabalho (CR01)",
+      "tags": [
+        "PP",
+        "BOM",
+        "Routing"
+      ],
+      "parent_id": "3b97a6a4-a716-4de2-af2d-cfa42819e240",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:31:03.691+00:00",
+      "updated_at": "2026-04-29T14:31:03.691+00:00"
+    },
+    {
+      "id": "d7fb50f9-5d4d-4eff-93ed-085e95f37141",
+      "title": "WM/EWM – Warehouse Management",
+      "type": "modulo",
+      "content": "",
+      "description": "Gestão de armazém SAP",
+      "tags": [
+        "WM",
+        "EWM",
+        "Funcional"
+      ],
+      "parent_id": "57715228-52af-42cc-ba6e-ebcd3c9803a0",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:31:03.839+00:00",
+      "updated_at": "2026-04-29T14:31:03.839+00:00"
+    },
+    {
+      "id": "bcd6c13a-55df-4412-9ac8-e2d74e345beb",
+      "title": "Estrutura de Armazém (LX01)",
+      "type": "processo",
+      "content": "",
+      "description": "Complexo, armazém, tipo de estoque, área de estoque, seção",
+      "tags": [
+        "WM",
+        "Structure"
+      ],
+      "parent_id": "d7fb50f9-5d4d-4eff-93ed-085e95f37141",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:31:04.003+00:00",
+      "updated_at": "2026-04-29T14:31:04.003+00:00"
+    },
+    {
+      "id": "d32676a7-7cef-4238-94be-70573d2552cd",
+      "title": "Ordens de Transferência (LT01)",
+      "type": "transacao",
+      "content": "",
+      "description": "Criação/confirmação de TO, estratégias de putaway e picking",
+      "tags": [
+        "WM",
+        "TransferOrder",
+        "LT01"
+      ],
+      "parent_id": "d7fb50f9-5d4d-4eff-93ed-085e95f37141",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:31:04.153+00:00",
+      "updated_at": "2026-04-29T14:31:04.153+00:00"
+    },
+    {
+      "id": "1ffb9cf4-e05a-4fba-a6cb-6444d995bfea",
+      "title": "EWM – Extended Warehouse Mgmt",
+      "type": "processo",
+      "content": "",
+      "description": "Diferenças WM x EWM, embedded EWM S/4, tasks, PPF",
+      "tags": [
+        "EWM",
+        "S4HANA"
+      ],
+      "parent_id": "d7fb50f9-5d4d-4eff-93ed-085e95f37141",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:31:04.302+00:00",
+      "updated_at": "2026-04-29T14:31:04.302+00:00"
+    },
+    {
+      "id": "c8d41afe-8711-4259-a1de-ed3e077d7eaf",
+      "title": "S/4HANA",
+      "type": "pasta",
+      "content": "",
+      "description": "Conceitos, arquitetura e migração S/4HANA",
+      "tags": [
+        "S4HANA",
+        "HANA"
+      ],
+      "parent_id": null,
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:31:04.45+00:00",
+      "updated_at": "2026-04-29T14:31:04.45+00:00"
+    },
+    {
+      "id": "a1cd1def-9237-479f-b187-29a3eb866bb1",
+      "title": "Migração ECC → S/4HANA",
+      "type": "area",
+      "content": "",
+      "description": "Processo de migração para S/4HANA",
+      "tags": [
+        "S4HANA",
+        "Migração",
+        "ECC"
+      ],
+      "parent_id": "c8d41afe-8711-4259-a1de-ed3e077d7eaf",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:31:04.602+00:00",
+      "updated_at": "2026-04-29T14:31:04.602+00:00"
+    },
+    {
+      "id": "b08aed89-1baf-4152-a1b2-437ff370e361",
+      "title": "Simplification List",
+      "type": "desenvolvimento",
+      "content": "",
+      "description": "Lista de simplificações por release S/4, itens removidos/alterados",
+      "tags": [
+        "S4HANA",
+        "Simplification"
+      ],
+      "parent_id": "a1cd1def-9237-479f-b187-29a3eb866bb1",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:31:04.752+00:00",
+      "updated_at": "2026-04-29T14:31:04.752+00:00"
+    },
+    {
+      "id": "f6d4e436-705d-4802-9a63-3dcd6e3f46a5",
+      "title": "Readiness Check & Pre-checks",
+      "type": "processo",
+      "content": "",
+      "description": "SAP Readiness Check, SUM DMO, pre-checks de customizing",
+      "tags": [
+        "S4HANA",
+        "Migration",
+        "ReadinessCheck"
+      ],
+      "parent_id": "a1cd1def-9237-479f-b187-29a3eb866bb1",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:31:04.902+00:00",
+      "updated_at": "2026-04-29T14:31:04.902+00:00"
+    },
+    {
+      "id": "c43cde8e-136c-4a05-ae13-9b8ad07c7a5a",
+      "title": "Migração de Dados (LTMC/LTMOM)",
+      "type": "processo",
+      "content": "",
+      "description": "Legacy Transfer Migration Cockpit, objeto de migração, templates",
+      "tags": [
+        "S4HANA",
+        "LTMC",
+        "DataMigration"
+      ],
+      "parent_id": "a1cd1def-9237-479f-b187-29a3eb866bb1",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:31:05.052+00:00",
+      "updated_at": "2026-04-29T14:31:05.052+00:00"
+    },
+    {
+      "id": "4886c688-50ac-4977-a074-51146e14d048",
+      "title": "Clean Core Strategy",
+      "type": "processo",
+      "content": "",
+      "description": "Princípios clean core, extensibility options, custom code check",
+      "tags": [
+        "S4HANA",
+        "CleanCore"
+      ],
+      "parent_id": "a1cd1def-9237-479f-b187-29a3eb866bb1",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:31:05.207+00:00",
+      "updated_at": "2026-04-29T14:31:05.207+00:00"
+    },
+    {
+      "id": "21f27866-bb85-4d22-b90b-eca7320b294e",
+      "title": "Universal Journal (ACDOCA)",
+      "type": "area",
+      "content": "",
+      "description": "Nova contabilidade unificada S/4HANA",
+      "tags": [
+        "S4HANA",
+        "ACDOCA",
+        "FI",
+        "CO"
+      ],
+      "parent_id": "c8d41afe-8711-4259-a1de-ed3e077d7eaf",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:31:05.359+00:00",
+      "updated_at": "2026-04-29T14:31:05.359+00:00"
+    },
+    {
+      "id": "19840936-4567-4889-93f4-11aa3c5030ba",
+      "title": "Estrutura ACDOCA",
+      "type": "desenvolvimento",
+      "content": "",
+      "description": "Tabela ACDOCA, campos-chave, relacionamento FI-CO unificado",
+      "tags": [
+        "S4HANA",
+        "ACDOCA"
+      ],
+      "parent_id": "21f27866-bb85-4d22-b90b-eca7320b294e",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:31:05.509+00:00",
+      "updated_at": "2026-04-29T14:31:05.509+00:00"
+    },
+    {
+      "id": "d53f5de0-f459-4d11-979b-7ae691705f40",
+      "title": "Impacto em Reports & Queries",
+      "type": "desenvolvimento",
+      "content": "",
+      "description": "Substituição BSEG/COEP, joins ACDOCA, CDS views FI/CO",
+      "tags": [
+        "S4HANA",
+        "ACDOCA",
+        "Report"
+      ],
+      "parent_id": "21f27866-bb85-4d22-b90b-eca7320b294e",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:31:05.66+00:00",
+      "updated_at": "2026-04-29T14:31:05.66+00:00"
+    },
+    {
+      "id": "4317d76f-bd36-4c79-a880-8045df1d09b0",
+      "title": "Embedded Analytics",
+      "type": "area",
+      "content": "",
+      "description": "Analytics nativo S/4HANA sem ferramentas externas",
+      "tags": [
+        "S4HANA",
+        "Analytics",
+        "BW"
+      ],
+      "parent_id": "c8d41afe-8711-4259-a1de-ed3e077d7eaf",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:31:05.812+00:00",
+      "updated_at": "2026-04-29T14:31:05.812+00:00"
+    },
+    {
+      "id": "22a17ffc-bd1b-4f15-bb04-204be1acdf8c",
+      "title": "CDS Analytics Views",
+      "type": "desenvolvimento",
+      "content": "",
+      "description": "@Analytics.query:true, @Analytics.dataCategory:#CUBE/#DIMENSION, KPI",
+      "tags": [
+        "S4HANA",
+        "CDS",
+        "Analytics"
+      ],
+      "parent_id": "4317d76f-bd36-4c79-a880-8045df1d09b0",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:31:05.963+00:00",
+      "updated_at": "2026-04-29T14:31:05.963+00:00"
+    },
+    {
+      "id": "891760dd-8aa9-4d6e-b397-0b09a84769fb",
+      "title": "Query Browser & KPI Framework",
+      "type": "processo",
+      "content": "",
+      "description": "FIORI app Query Browser, Tile com KPI, Smart Business",
+      "tags": [
+        "S4HANA",
+        "KPI",
+        "Analytics"
+      ],
+      "parent_id": "4317d76f-bd36-4c79-a880-8045df1d09b0",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:31:06.113+00:00",
+      "updated_at": "2026-04-29T14:31:06.113+00:00"
+    },
+    {
+      "id": "46030b0e-686f-4d07-8a6e-13923e05af89",
+      "title": "SAC & Integration BW/4HANA",
+      "type": "processo",
+      "content": "",
+      "description": "SAP Analytics Cloud live connection, BW/4HANA side-by-side",
+      "tags": [
+        "S4HANA",
+        "SAC",
+        "BW"
+      ],
+      "parent_id": "4317d76f-bd36-4c79-a880-8045df1d09b0",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:31:06.262+00:00",
+      "updated_at": "2026-04-29T14:31:06.262+00:00"
+    },
+    {
+      "id": "e241cc21-4e97-4cd5-b333-fe78c1f288f0",
+      "title": "Arquitetura S/4HANA",
+      "type": "area",
+      "content": "",
+      "description": "Conceitos de arquitetura e infraestrutura S/4HANA",
+      "tags": [
+        "S4HANA",
+        "Arquitetura",
+        "HANA"
+      ],
+      "parent_id": "c8d41afe-8711-4259-a1de-ed3e077d7eaf",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:31:06.412+00:00",
+      "updated_at": "2026-04-29T14:31:06.412+00:00"
+    },
+    {
+      "id": "18498edf-3241-499f-a412-16c182b7dddb",
+      "title": "In-Memory Computing (HANA)",
+      "type": "desenvolvimento",
+      "content": "",
+      "description": "Row store vs column store, compressão, delta merge, MVCC",
+      "tags": [
+        "HANA",
+        "InMemory"
+      ],
+      "parent_id": "e241cc21-4e97-4cd5-b333-fe78c1f288f0",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:31:06.562+00:00",
+      "updated_at": "2026-04-29T14:31:06.562+00:00"
+    },
+    {
+      "id": "7c89e8ad-aa83-49d5-93bf-15837930e676",
+      "title": "Simplificações de Tabelas (Merge)",
+      "type": "desenvolvimento",
+      "content": "",
+      "description": "BKPF→ACDOCA, MARD→MATDOC, KONV→PRCD_ELEMENTS, impacto ABAP",
+      "tags": [
+        "S4HANA",
+        "Tables",
+        "Simplification"
+      ],
+      "parent_id": "e241cc21-4e97-4cd5-b333-fe78c1f288f0",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:31:06.714+00:00",
+      "updated_at": "2026-04-29T14:31:06.714+00:00"
+    },
+    {
+      "id": "26a58e79-084d-4dc2-b435-e015d495569c",
+      "title": "Releases S/4HANA (1909, 2020, 2021, 2023)",
+      "type": "area",
+      "content": "",
+      "description": "Novidades por release: 1909, 2020, 2021, 2022, 2023, 2024",
+      "tags": [
+        "S4HANA",
+        "Release"
+      ],
+      "parent_id": "e241cc21-4e97-4cd5-b333-fe78c1f288f0",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:31:06.864+00:00",
+      "updated_at": "2026-04-29T14:31:06.864+00:00"
+    },
+    {
+      "id": "39009b37-5b3b-4fb2-a24d-e051aea91258",
+      "title": "Ferramentas & Performance",
+      "type": "pasta",
+      "content": "",
+      "description": "Ferramentas SAP para desenvolvimento, debug e tuning",
+      "tags": [
+        "ABAP",
+        "Performance",
+        "Ferramentas"
+      ],
+      "parent_id": null,
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:31:07.014+00:00",
+      "updated_at": "2026-04-29T14:31:07.014+00:00"
+    },
+    {
+      "id": "4ada7f53-08d9-41df-a044-83ea875e44b8",
+      "title": "Debug & Análise",
+      "type": "area",
+      "content": "",
+      "description": "Debug e análise de programas ABAP",
+      "tags": [
+        "ABAP",
+        "Debug",
+        "Performance"
+      ],
+      "parent_id": "39009b37-5b3b-4fb2-a24d-e051aea91258",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:31:07.164+00:00",
+      "updated_at": "2026-04-29T14:31:07.164+00:00"
+    },
+    {
+      "id": "5cf32f02-3ef4-4fba-b9c3-c1b3bc633e80",
+      "title": "ABAP Debugger (SAP GUI & ADT)",
+      "type": "desenvolvimento",
+      "content": "",
+      "description": "Breakpoints, watchpoints, desktop shortcuts, dual stack, script debugger",
+      "tags": [
+        "ABAP",
+        "Debug"
+      ],
+      "parent_id": "4ada7f53-08d9-41df-a044-83ea875e44b8",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:31:07.314+00:00",
+      "updated_at": "2026-04-29T14:31:07.314+00:00"
+    },
+    {
+      "id": "ec24e4b4-39a2-4f6b-9d10-22a23d3ecf4a",
+      "title": "ST05 – SQL Trace",
+      "type": "transacao",
+      "content": "",
+      "description": "Ativar trace SQL, análise de queries lentas, buffer hits, explain plan",
+      "tags": [
+        "Performance",
+        "ST05",
+        "SQL"
+      ],
+      "parent_id": "4ada7f53-08d9-41df-a044-83ea875e44b8",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:31:07.466+00:00",
+      "updated_at": "2026-04-29T14:31:07.466+00:00"
+    },
+    {
+      "id": "6079c50a-80dd-47ca-ad1a-89af036977e4",
+      "title": "SAT / SE30 – Runtime Analysis",
+      "type": "transacao",
+      "content": "",
+      "description": "Hit list, call hierarchy, top statements, ABAP trace com SAT",
+      "tags": [
+        "Performance",
+        "SAT",
+        "SE30"
+      ],
+      "parent_id": "4ada7f53-08d9-41df-a044-83ea875e44b8",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:31:07.615+00:00",
+      "updated_at": "2026-04-29T14:31:07.615+00:00"
+    },
+    {
+      "id": "79700abf-e2c1-4f1c-8ed1-8a949b67ddfc",
+      "title": "SM50/SM66 – Work Processes",
+      "type": "transacao",
+      "content": "",
+      "description": "Monitor de work processes, processos em fila, locks (SM12)",
+      "tags": [
+        "Basis",
+        "SM50",
+        "SM66",
+        "Performance"
+      ],
+      "parent_id": "4ada7f53-08d9-41df-a044-83ea875e44b8",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:31:07.773+00:00",
+      "updated_at": "2026-04-29T14:31:07.773+00:00"
+    },
+    {
+      "id": "0781f344-b3e2-4b6a-8c1a-336984c07bed",
+      "title": "SCI – Code Inspector",
+      "type": "transacao",
+      "content": "",
+      "description": "Verificações estáticas de código, performance, segurança, naming",
+      "tags": [
+        "ABAP",
+        "SCI",
+        "CodeQuality"
+      ],
+      "parent_id": "4ada7f53-08d9-41df-a044-83ea875e44b8",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:31:07.952+00:00",
+      "updated_at": "2026-04-29T14:31:07.952+00:00"
+    },
+    {
+      "id": "3aab4850-2716-40c1-a447-589a48c0a8fb",
+      "title": "Transport Management",
+      "type": "area",
+      "content": "",
+      "description": "Gestão de transportes e ambientes SAP",
+      "tags": [
+        "TMS",
+        "Transport",
+        "Basis"
+      ],
+      "parent_id": "39009b37-5b3b-4fb2-a24d-e051aea91258",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:31:08.106+00:00",
+      "updated_at": "2026-04-29T14:31:08.106+00:00"
+    },
+    {
+      "id": "24a4cef6-0d35-4405-a1ff-afbe98c2f48f",
+      "title": "Ordens de Transport (SE09/SE10)",
+      "type": "transacao",
+      "content": "",
+      "description": "Workbench, Customizing orders, tasks, release, export",
+      "tags": [
+        "TMS",
+        "SE09",
+        "SE10"
+      ],
+      "parent_id": "3aab4850-2716-40c1-a447-589a48c0a8fb",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:31:08.266+00:00",
+      "updated_at": "2026-04-29T14:31:08.266+00:00"
+    },
+    {
+      "id": "cdb57cf7-f247-4321-8f57-333189af68bb",
+      "title": "TMS – Transport Management System",
+      "type": "processo",
+      "content": "",
+      "description": "STMS configuração, rotas, domínio, import queue, logs",
+      "tags": [
+        "TMS",
+        "STMS",
+        "Basis"
+      ],
+      "parent_id": "3aab4850-2716-40c1-a447-589a48c0a8fb",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:31:08.418+00:00",
+      "updated_at": "2026-04-29T14:31:08.418+00:00"
+    },
+    {
+      "id": "c7e4e683-b6f3-4589-8225-bf4f6e41f3ca",
+      "title": "Estratégias de Transport",
+      "type": "processo",
+      "content": "",
+      "description": "Best practices: 3-tier landscape, hot fix, retransport, S/4 specifics",
+      "tags": [
+        "TMS",
+        "Strategy"
+      ],
+      "parent_id": "3aab4850-2716-40c1-a447-589a48c0a8fb",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:31:08.567+00:00",
+      "updated_at": "2026-04-29T14:31:08.567+00:00"
+    },
+    {
+      "id": "6342c915-3ca1-4f31-90c9-7366fdca5a8f",
+      "title": "Segurança & Autorização",
+      "type": "area",
+      "content": "",
+      "description": "Autorizações e segurança ABAP",
+      "tags": [
+        "Auth",
+        "PFCG",
+        "Security"
+      ],
+      "parent_id": "39009b37-5b3b-4fb2-a24d-e051aea91258",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:31:08.717+00:00",
+      "updated_at": "2026-04-29T14:31:08.717+00:00"
+    },
+    {
+      "id": "6cccc117-e97a-4d4b-b450-5c902353fbe5",
+      "title": "Objetos de Autorização (SU21)",
+      "type": "transacao",
+      "content": "",
+      "description": "Criar/modificar objetos, campos de autorização, classes",
+      "tags": [
+        "Auth",
+        "SU21",
+        "Security"
+      ],
+      "parent_id": "6342c915-3ca1-4f31-90c9-7366fdca5a8f",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:31:08.867+00:00",
+      "updated_at": "2026-04-29T14:31:08.867+00:00"
+    },
+    {
+      "id": "7d791796-ac50-4e70-ac3e-c22ea87c9a94",
+      "title": "PFCG – Roles & Profiles",
+      "type": "transacao",
+      "content": "",
+      "description": "Criar roles, menu, autorizações, perfis, atribuição a usuários",
+      "tags": [
+        "Auth",
+        "PFCG",
+        "Role"
+      ],
+      "parent_id": "6342c915-3ca1-4f31-90c9-7366fdca5a8f",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:31:09.032+00:00",
+      "updated_at": "2026-04-29T14:31:09.032+00:00"
+    },
+    {
+      "id": "aecc71c7-8fd9-4145-8f49-87c105a6de1e",
+      "title": "AUTHORITY-CHECK em ABAP",
+      "type": "desenvolvimento",
+      "content": "",
+      "description": "AUTHORITY-CHECK OBJECT, SY-SUBRC, dummy checks, best practices",
+      "tags": [
+        "Auth",
+        "ABAP",
+        "Security"
+      ],
+      "parent_id": "6342c915-3ca1-4f31-90c9-7366fdca5a8f",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:31:09.182+00:00",
+      "updated_at": "2026-04-29T14:31:09.182+00:00"
+    },
+    {
+      "id": "adaa1289-25dc-4276-a982-8329f36970e2",
+      "title": "SU53 & SU56 – Análise de Auth",
+      "type": "transacao",
+      "content": "",
+      "description": "SU53 última verificação falha, SU56 buffer de usuário",
+      "tags": [
+        "Auth",
+        "SU53",
+        "Debug"
+      ],
+      "parent_id": "6342c915-3ca1-4f31-90c9-7366fdca5a8f",
+      "pos_x": 0,
+      "pos_y": 0,
+      "created_at": "2026-04-29T14:31:09.336+00:00",
+      "updated_at": "2026-04-29T14:31:09.336+00:00"
+    }
+  ],
+  "edges": []
+}
