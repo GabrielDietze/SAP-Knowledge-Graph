@@ -1,6 +1,9 @@
 {
   "name": "sap-knowledge-graph",
   "version": "1.0.0",
+  "scripts": {
+    "build": "npm install --prefix frontend && npm run build --prefix frontend"
+  },
   "dependencies": {
     "@supabase/supabase-js": "^2.105.1",
     "cors": "^2.8.5",
