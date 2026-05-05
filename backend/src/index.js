@@ -1,17 +1,7 @@
-const express = require('express');
-const cors = require('cors');
+const path = require('path');
+require('dotenv').config({ path: path.join(__dirname, '../../.env') });
 
-require('./db/database');
-
-const app = express();
-app.use(cors());
-app.use(express.json());
-
-app.use('/api/nodes', require('./routes/nodes'));
-app.use('/api/edges', require('./routes/edges'));
-app.use('/api/graph', require('./routes/graph'));
-
-app.get('/api/health', (_, res) => res.json({ status: 'ok' }));
+const app = require('./app');
 
 const PORT = process.env.PORT || 3001;
 app.listen(PORT, () => console.log(`SAP Knowledge API running on http://localhost:${PORT}`));
